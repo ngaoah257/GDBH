@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TONG_HOP>
+    <MA_LK>112645</MA_LK>
+    <STT>1</STT>
+    <MA_BN>25029071</MA_BN>
+    <HO_TEN><![CDATA[Nguyễn Văn Hoa]]></HO_TEN>
+    <SO_CCCD>038061016378</SO_CCCD>
+    <NGAY_SINH>196101010000</NGAY_SINH>
+    <GIOI_TINH>1</GIOI_TINH>
+    <MA_QUOCTICH>000</MA_QUOCTICH>
+    <MA_DANTOC>01</MA_DANTOC>
+    <MA_NGHE_NGHIEP>00</MA_NGHE_NGHIEP>
+    <DIA_CHI><![CDATA[Thôn Kim Tân 1, Xã Hoằng Tiến, Tỉnh Thanh Hóa]]></DIA_CHI>
+    <MATINH_CU_TRU>38</MATINH_CU_TRU>
+    <MAHUYEN_CU_TRU></MAHUYEN_CU_TRU>
+    <MAXA_CU_TRU>15991</MAXA_CU_TRU>
+    <DIEN_THOAI>0387101678</DIEN_THOAI>
+    <MA_THE_BHYT>HT3382796012783</MA_THE_BHYT>
+    <MA_DKBD>38467</MA_DKBD>
+    <GT_THE_TU>20251009</GT_THE_TU>
+    <GT_THE_DEN>20291231</GT_THE_DEN>
+    <NGAY_MIEN_CCT></NGAY_MIEN_CCT>
+    <LY_DO_VV><![CDATA[U ác của hạ hầu/ Nhiễm trùng chân sonde nuôi dưỡng]]></LY_DO_VV>
+    <LY_DO_VNT><![CDATA[Điều trị]]></LY_DO_VNT>
+    <MA_LY_DO_VNT></MA_LY_DO_VNT>
+    <CHAN_DOAN_VAO><![CDATA[C13-U ác của hạ hầu/ Nhiễm trùng chân sonde nuôi dưỡng]]></CHAN_DOAN_VAO>
+    <CHAN_DOAN_RV><![CDATA[C13-U ác của hạ hầu;K29-Viêm dạ dày và tá tràng;A41-Nhiễm trùng khác;D64-Các thiếu máu khác;T78.4-Dị ứng chưa xác định;J15.8-Viêm phổi do vi khuẩn khác;D68-Các bất thường đông máu khác]]></CHAN_DOAN_RV>
+    <MA_BENH_CHINH>C13</MA_BENH_CHINH>
+    <MA_BENH_KT><![CDATA[K29;A41;D64;T78.4;J15.8;D68]]></MA_BENH_KT>
+    <MA_BENH_YHCT><![CDATA[]]></MA_BENH_YHCT>
+    <MA_PTTT_QT></MA_PTTT_QT>
+    <MA_DOITUONG_KCB>1.16</MA_DOITUONG_KCB>
+    <MA_NOI_DI></MA_NOI_DI>
+    <MA_NOI_DEN></MA_NOI_DEN>
+    <MA_TAI_NAN></MA_TAI_NAN>
+    <NGAY_VAO>202603090759</NGAY_VAO>
+    <NGAY_VAO_NOI_TRU>202603090849</NGAY_VAO_NOI_TRU>
+    <NGAY_RA>202603301630</NGAY_RA>
+    <GIAY_CHUYEN_TUYEN></GIAY_CHUYEN_TUYEN>
+    <SO_NGAY_DTRI>22</SO_NGAY_DTRI>
+    <PP_DIEU_TRI><![CDATA[Điều trị khác: Nội khoa]]></PP_DIEU_TRI>
+    <KET_QUA_DTRI>2</KET_QUA_DTRI>
+    <MA_LOAI_RV>1</MA_LOAI_RV>
+    <GHI_CHU><![CDATA[Ra viện khám lại sau 2 tuần tại khoa nội 2]]></GHI_CHU>
+    <NGAY_TTOAN>202603301630</NGAY_TTOAN>
+    <T_THUOC>7618587.00</T_THUOC>
+    <T_VTYT>167553.58</T_VTYT>
+    <T_TONGCHI_BV>14054940.58</T_TONGCHI_BV>
+    <T_TONGCHI_BH>14054940.58</T_TONGCHI_BH>
+    <T_BNTT>0.00</T_BNTT>
+    <T_BNCCT>702747.05</T_BNCCT>
+    <T_BHTT>13352193.53</T_BHTT>
+    <T_NGUONKHAC>0.00</T_NGUONKHAC>
+    <T_BHTT_GDV>0.00</T_BHTT_GDV>
+    <NAM_QT>2026</NAM_QT>
+    <THANG_QT>03</THANG_QT>
+    <MA_LOAI_KCB>03</MA_LOAI_KCB>
+    <MA_KHOA>K01;K19</MA_KHOA>
+    <MA_CSKCB>38744</MA_CSKCB>
+    <MA_KHUVUC></MA_KHUVUC>
+    <CAN_NANG>44.00</CAN_NANG>
+    <CAN_NANG_CON></CAN_NANG_CON>
+    <NAM_NAM_LIEN_TUC>20150101</NAM_NAM_LIEN_TUC>
+    <NGAY_TAI_KHAM>20260413</NGAY_TAI_KHAM>
+    <MA_HSBA>112645</MA_HSBA>
+    <MA_TTDV>003275/TH-CCHN</MA_TTDV>
+    <NHOM_MAU></NHOM_MAU>
+    <DU_PHONG>160</DU_PHONG>
+</TONG_HOP>

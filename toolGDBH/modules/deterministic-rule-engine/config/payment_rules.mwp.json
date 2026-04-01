@@ -1,0 +1,316 @@
+{
+  "source_ref": "payment-rules@0.1.0",
+  "schema_version": "1.0",
+  "default_currency": "VND",
+  "match_priority": [
+    "code",
+    "group",
+    "keyword"
+  ],
+  "rules": [
+    {
+      "rule_id": "PAY.OUT_OF_SCOPE.001",
+      "enabled": true,
+      "description_vi": "Khoản ngoài phạm vi thanh toán BHYT",
+      "rule_kind": "out_of_scope",
+      "item_types": [
+        "service",
+        "drug",
+        "supply"
+      ],
+      "suggested_action": "reject",
+      "severity": "reject",
+      "impact_formula": "full_line_amount",
+      "effective_from": "2025-01-01",
+      "effective_to": null,
+      "legal_basis": [
+        "TT39/2024/TT-BYT"
+      ],
+      "matchers": [
+        {
+          "match_type": "code",
+          "item_type": "service",
+          "entries": [
+            {
+              "match_value": "DV.OUT.001",
+              "legal_basis": [
+                "TT39/2024/TT-BYT"
+              ],
+              "notes": "Ma dich vu duoc danh dau ngoai pham vi thanh toan."
+            }
+          ]
+        },
+        {
+          "match_type": "code",
+          "item_type": "drug",
+          "entries": [
+            {
+              "match_value": "TH.OUT.001",
+              "legal_basis": [
+                "TT39/2024/TT-BYT"
+              ],
+              "notes": "Ma thuoc mau ngoai pham vi thanh toan."
+            }
+          ]
+        },
+        {
+          "match_type": "code",
+          "item_type": "supply",
+          "entries": [
+            {
+              "match_value": "VT.OUT.001",
+              "legal_basis": [
+                "TT39/2024/TT-BYT"
+              ],
+              "notes": "Ma VTYT mau ngoai pham vi thanh toan."
+            }
+          ]
+        },
+        {
+          "match_type": "keyword",
+          "item_type": "service",
+          "entries": [
+            {
+              "keyword": "theo yeu cau",
+              "legal_basis": [
+                "TT39/2024/TT-BYT"
+              ],
+              "notes": "Dich vu theo yeu cau khong thuoc pham vi BHYT."
+            }
+          ]
+        },
+        {
+          "match_type": "keyword",
+          "item_type": "drug",
+          "entries": [
+            {
+              "keyword": "thuc pham chuc nang",
+              "legal_basis": [
+                "TT39/2024/TT-BYT"
+              ],
+              "notes": "San pham ho tro khong thanh toan theo BHYT."
+            }
+          ]
+        },
+        {
+          "match_type": "keyword",
+          "item_type": "supply",
+          "entries": [
+            {
+              "keyword": "goi dich vu",
+              "legal_basis": [
+                "TT39/2024/TT-BYT"
+              ],
+              "notes": "Vat tu di kem goi dich vu khong thanh toan rieng."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rule_id": "PAY.LIMIT.COVERAGE_PERCENT.001",
+      "enabled": true,
+      "description_vi": "Giới hạn tỷ lệ thanh toán",
+      "rule_kind": "coverage_percent",
+      "item_types": [
+        "service",
+        "drug",
+        "supply"
+      ],
+      "suggested_action": "reduce",
+      "severity": "warning",
+      "impact_formula": "line_amount * (1 - coverage_percent)",
+      "effective_from": "2025-01-01",
+      "effective_to": null,
+      "legal_basis": [],
+      "matchers": [
+        {
+          "match_type": "code",
+          "item_type": "drug",
+          "entries": [
+            {
+              "match_value": "TH.COVER.001",
+              "coverage_percent": 0.5,
+              "legal_basis": [
+                "MVP payment draft"
+              ],
+              "notes": "Vi du thuoc chi duoc BHYT thanh toan 50%."
+            }
+          ]
+        },
+        {
+          "match_type": "group",
+          "item_type": "supply",
+          "entries": [
+            {
+              "group_code": "VT.COVER.",
+              "coverage_percent": 0.8,
+              "legal_basis": [
+                "MVP payment draft"
+              ],
+              "notes": "Nhom VTYT chi thanh toan 80%."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rule_id": "PAY.LIMIT.UNIT_PRICE_MAX.001",
+      "enabled": true,
+      "description_vi": "Giới hạn đơn giá thanh toán tối đa",
+      "rule_kind": "unit_price_max",
+      "item_types": [
+        "service",
+        "drug",
+        "supply"
+      ],
+      "suggested_action": "reduce",
+      "severity": "warning",
+      "impact_formula": "(actual_unit_price - unit_price_max) * quantity",
+      "effective_from": "2025-01-01",
+      "effective_to": null,
+      "legal_basis": [],
+      "matchers": [
+        {
+          "match_type": "code",
+          "item_type": "service",
+          "entries": [
+            {
+              "match_value": "DV.UNITMAX.001",
+              "unit_price_max": 100000,
+              "legal_basis": [
+                "MVP payment draft"
+              ],
+              "notes": "Tran don gia dich vu mau."
+            }
+          ]
+        },
+        {
+          "match_type": "code",
+          "item_type": "drug",
+          "entries": [
+            {
+              "match_value": "TH.UNITMAX.001",
+              "unit_price_max": 25000,
+              "legal_basis": [
+                "MVP payment draft"
+              ],
+              "notes": "Tran don gia thuoc mau."
+            }
+          ]
+        },
+        {
+          "match_type": "code",
+          "item_type": "supply",
+          "entries": [
+            {
+              "match_value": "VT.UNITMAX.001",
+              "unit_price_max": 15000,
+              "legal_basis": [
+                "MVP payment draft"
+              ],
+              "notes": "Tran don gia VTYT mau."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rule_id": "PAY.LIMIT.QUANTITY_MAX.001",
+      "enabled": true,
+      "description_vi": "Giới hạn số lượng thanh toán tối đa",
+      "rule_kind": "quantity_max",
+      "item_types": [
+        "service",
+        "drug",
+        "supply"
+      ],
+      "suggested_action": "reduce",
+      "severity": "warning",
+      "impact_formula": "max(0, quantity - quantity_max) * actual_unit_price",
+      "effective_from": "2025-01-01",
+      "effective_to": null,
+      "legal_basis": [],
+      "matchers": [
+        {
+          "match_type": "code",
+          "item_type": "service",
+          "entries": [
+            {
+              "match_value": "DV.QTYMAX.001",
+              "quantity_max": 2,
+              "legal_basis": [
+                "MVP payment draft"
+              ],
+              "notes": "Tran so luong dich vu mau."
+            }
+          ]
+        },
+        {
+          "match_type": "group",
+          "item_type": "drug",
+          "entries": [
+            {
+              "group_code": "TH.QTY.",
+              "quantity_max": 3,
+              "legal_basis": [
+                "MVP payment draft"
+              ],
+              "notes": "Tran so luong thuoc cho nhom mau."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rule_id": "PAY.LIMIT.AMOUNT_MAX.001",
+      "enabled": true,
+      "description_vi": "Giới hạn tổng tiền thanh toán tối đa cho dòng chi phí",
+      "rule_kind": "amount_max",
+      "item_types": [
+        "service",
+        "drug",
+        "supply"
+      ],
+      "suggested_action": "reduce",
+      "severity": "warning",
+      "impact_formula": "max(0, line_amount - amount_max)",
+      "effective_from": "2025-01-01",
+      "effective_to": null,
+      "legal_basis": [],
+      "matchers": [
+        {
+          "match_type": "code",
+          "item_type": "service",
+          "entries": [
+            {
+              "match_value": "DV.AMOUNTMAX.001",
+              "amount_max": 150000,
+              "legal_basis": [
+                "MVP payment draft"
+              ],
+              "notes": "Tran thanh tien toi da cho dich vu mau."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "entry_schema": {
+    "match_type": "code|group|keyword",
+    "item_type": "service|drug|supply",
+    "match_value": "string",
+    "group_code": "string|null",
+    "keyword": "string|null",
+    "coverage_percent": "number|null",
+    "unit_price_max": "number|null",
+    "quantity_max": "number|null",
+    "amount_max": "number|null",
+    "legal_basis": [
+      "string"
+    ],
+    "effective_from": "date|null",
+    "effective_to": "date|null",
+    "notes": "string|null"
+  }
+}

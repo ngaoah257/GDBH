@@ -1,0 +1,95 @@
+{
+  "source_ref": "internal-code-policy@0.1.0",
+  "aliases": [
+    {
+      "code": "INT.SVC.CHEMO_INFUSION",
+      "item_types": ["service", "drug"],
+      "item_codes": [],
+      "item_name_keywords": ["hoa chat", "truyen hoa chat", "truyen thuoc doc te bao"],
+      "note_keywords": ["hoa chat", "truyen hoa chat", "phan ve", "soc"],
+      "result_codes": [],
+      "result_keywords": ["hoa chat", "phan ve"]
+    },
+    {
+      "code": "INT.SVC.BIOLOGIC_INFUSION",
+      "item_types": ["service", "drug"],
+      "item_codes": [],
+      "item_name_keywords": ["sinh hoc", "truyen sinh hoc"],
+      "note_keywords": ["sinh hoc", "phan ve"],
+      "result_codes": [],
+      "result_keywords": ["sinh hoc"]
+    },
+    {
+      "code": "INT.SVC.ONCOLOGY_EMERGENCY",
+      "item_types": ["service"],
+      "item_codes": [],
+      "item_name_keywords": ["cap cuu", "ung buou", "hoi suc"],
+      "note_keywords": ["cap cuu", "chen ep tinh mach chu tren", "ung thu"],
+      "result_codes": [],
+      "result_keywords": ["chen ep", "trung that"]
+    },
+    {
+      "code": "INT.DRUG.VTE_PROPHYLAXIS",
+      "item_types": ["drug", "service"],
+      "item_codes": [],
+      "item_name_keywords": ["du phong huyet khoi", "enoxaparin", "heparin"],
+      "note_keywords": ["huyet khoi", "thuyen tac", "du phong"],
+      "result_codes": [],
+      "result_keywords": ["d-dimer", "huyet khoi"]
+    },
+    {
+      "code": "INT.SVC.BRAIN_METASTASIS_WORKUP",
+      "item_types": ["service"],
+      "item_codes": [],
+      "item_name_keywords": ["ct so nao", "mri so nao", "ct nao", "mri nao"],
+      "note_keywords": ["di can nao", "than kinh"],
+      "result_codes": ["CT-SO-NAO", "MRI-SO-NAO"],
+      "result_keywords": ["di can nao", "u nao"]
+    },
+    {
+      "code": "INT.DRUG.P32_RADIONUCLIDE",
+      "item_types": ["drug", "service"],
+      "item_codes": [],
+      "item_name_keywords": ["32p", "phospho phong xa"],
+      "note_keywords": ["32p", "da hong cau"],
+      "result_codes": [],
+      "result_keywords": ["hematocrit", "hemoglobin"]
+    },
+    {
+      "code": "INT.SVC.BONE_PAIN_RADIONUCLIDE",
+      "item_types": ["service", "drug"],
+      "item_codes": [],
+      "item_name_keywords": ["di can xuong", "dong vi phong xa", "giam dau xuong"],
+      "note_keywords": ["di can xuong", "dau xuong", "vas"],
+      "result_codes": [],
+      "result_keywords": ["di can xuong"]
+    },
+    {
+      "code": "INT.SVC.PROSTATE_BRACHYTHERAPY",
+      "item_types": ["service"],
+      "item_codes": [],
+      "item_name_keywords": ["cay hat phong xa", "brachytherapy", "tuyen tien liet"],
+      "note_keywords": ["tuyen tien liet", "cay hat phong xa"],
+      "result_codes": [],
+      "result_keywords": ["tuyen tien liet"]
+    },
+    {
+      "code": "INT.SVC.PLEURAL_RADIONUCLIDE",
+      "item_types": ["service"],
+      "item_codes": [],
+      "item_name_keywords": ["mang phoi", "thuoc phong xa"],
+      "note_keywords": ["tran dich mang phoi", "mang phoi"],
+      "result_codes": [],
+      "result_keywords": ["tran dich mang phoi"]
+    },
+    {
+      "code": "INT.SVC.PERITONEAL_RADIONUCLIDE",
+      "item_types": ["service"],
+      "item_codes": [],
+      "item_name_keywords": ["o bung", "co truong", "thuoc phong xa"],
+      "note_keywords": ["co truong ac tinh", "tran dich o bung"],
+      "result_codes": [],
+      "result_keywords": ["co truong", "tran dich o bung"]
+    }
+  ]
+}

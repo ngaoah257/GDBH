@@ -1,0 +1,11 @@
+{
+  "allowed_route_codes": ["01", "02", "03"],
+  "invalid_card_prefixes": ["INVALID", "TEST-INVALID"],
+  "benefit_level_by_route": {
+    "01": "0.80",
+    "02": "1.00",
+    "03": "1.00"
+  },
+  "default_benefit_level": "0.80",
+  "source_ref": "eligibility-policy@0.1.0"
+}

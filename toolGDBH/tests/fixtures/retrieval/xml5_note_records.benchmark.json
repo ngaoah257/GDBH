@@ -1,0 +1,798 @@
+{
+  "retriever_version": "lexical-retriever-0.1.0",
+  "embedding_model": "lexical-baseline",
+  "query_count": 71,
+  "hit_at_1": 63,
+  "hit_at_3": 70,
+  "hit_at_5": 71,
+  "hit_at_1_rate": 0.8873,
+  "hit_at_3_rate": 0.9859,
+  "hit_at_5_rate": 1.0,
+  "mrr": 0.9378,
+  "rows": [
+    {
+      "query_id": "query:111096:XML5-1",
+      "claim_id": "111096",
+      "note_id": "XML5-1",
+      "expected_chunk_id": "xml5:111096:XML5-1:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:111096:XML5-1:chunk:0",
+        "xml5:111096:XML5-2:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:111096:XML5-2",
+      "claim_id": "111096",
+      "note_id": "XML5-2",
+      "expected_chunk_id": "xml5:111096:XML5-2:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:111096:XML5-2:chunk:0",
+        "xml5:111096:XML5-1:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:111096:XML5-3",
+      "claim_id": "111096",
+      "note_id": "XML5-3",
+      "expected_chunk_id": "xml5:111096:XML5-3:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:111096:XML5-3:chunk:0",
+        "xml5:111096:XML5-4:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:111096:XML5-4",
+      "claim_id": "111096",
+      "note_id": "XML5-4",
+      "expected_chunk_id": "xml5:111096:XML5-4:chunk:0",
+      "matched_rank": 2,
+      "top_results": [
+        "xml5:111096:XML5-3:chunk:0",
+        "xml5:111096:XML5-4:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:111096:XML5-5",
+      "claim_id": "111096",
+      "note_id": "XML5-5",
+      "expected_chunk_id": "xml5:111096:XML5-5:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:111096:XML5-5:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:111096:XML5-6",
+      "claim_id": "111096",
+      "note_id": "XML5-6",
+      "expected_chunk_id": "xml5:111096:XML5-6:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:111096:XML5-6:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:111096:XML5-7",
+      "claim_id": "111096",
+      "note_id": "XML5-7",
+      "expected_chunk_id": "xml5:111096:XML5-7:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:111096:XML5-7:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:111096:XML5-8",
+      "claim_id": "111096",
+      "note_id": "XML5-8",
+      "expected_chunk_id": "xml5:111096:XML5-8:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:111096:XML5-8:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:111096:XML5-9",
+      "claim_id": "111096",
+      "note_id": "XML5-9",
+      "expected_chunk_id": "xml5:111096:XML5-9:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:111096:XML5-9:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:111096:XML5-10",
+      "claim_id": "111096",
+      "note_id": "XML5-10",
+      "expected_chunk_id": "xml5:111096:XML5-10:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:111096:XML5-10:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:111096:XML5-11",
+      "claim_id": "111096",
+      "note_id": "XML5-11",
+      "expected_chunk_id": "xml5:111096:XML5-11:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:111096:XML5-11:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:111096:XML5-12",
+      "claim_id": "111096",
+      "note_id": "XML5-12",
+      "expected_chunk_id": "xml5:111096:XML5-12:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:111096:XML5-12:chunk:0",
+        "xml5:111096:XML5-13:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:111096:XML5-13",
+      "claim_id": "111096",
+      "note_id": "XML5-13",
+      "expected_chunk_id": "xml5:111096:XML5-13:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:111096:XML5-13:chunk:0",
+        "xml5:111096:XML5-12:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:112645:XML5-1",
+      "claim_id": "112645",
+      "note_id": "XML5-1",
+      "expected_chunk_id": "xml5:112645:XML5-1:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:112645:XML5-1:chunk:0",
+        "xml5:112645:XML5-2:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:112645:XML5-2",
+      "claim_id": "112645",
+      "note_id": "XML5-2",
+      "expected_chunk_id": "xml5:112645:XML5-2:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:112645:XML5-2:chunk:0",
+        "xml5:112645:XML5-1:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:112645:XML5-3",
+      "claim_id": "112645",
+      "note_id": "XML5-3",
+      "expected_chunk_id": "xml5:112645:XML5-3:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:112645:XML5-3:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:112645:XML5-4",
+      "claim_id": "112645",
+      "note_id": "XML5-4",
+      "expected_chunk_id": "xml5:112645:XML5-4:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:112645:XML5-4:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:112645:XML5-5",
+      "claim_id": "112645",
+      "note_id": "XML5-5",
+      "expected_chunk_id": "xml5:112645:XML5-5:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:112645:XML5-5:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:112645:XML5-6",
+      "claim_id": "112645",
+      "note_id": "XML5-6",
+      "expected_chunk_id": "xml5:112645:XML5-6:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:112645:XML5-6:chunk:0",
+        "xml5:112645:XML5-7:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:112645:XML5-7",
+      "claim_id": "112645",
+      "note_id": "XML5-7",
+      "expected_chunk_id": "xml5:112645:XML5-7:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:112645:XML5-7:chunk:0",
+        "xml5:112645:XML5-6:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:112645:XML5-8",
+      "claim_id": "112645",
+      "note_id": "XML5-8",
+      "expected_chunk_id": "xml5:112645:XML5-8:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:112645:XML5-8:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:112645:XML5-9",
+      "claim_id": "112645",
+      "note_id": "XML5-9",
+      "expected_chunk_id": "xml5:112645:XML5-9:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:112645:XML5-9:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:112645:XML5-10",
+      "claim_id": "112645",
+      "note_id": "XML5-10",
+      "expected_chunk_id": "xml5:112645:XML5-10:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:112645:XML5-10:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:112645:XML5-11",
+      "claim_id": "112645",
+      "note_id": "XML5-11",
+      "expected_chunk_id": "xml5:112645:XML5-11:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:112645:XML5-11:chunk:0",
+        "xml5:112645:XML5-12:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:112645:XML5-12",
+      "claim_id": "112645",
+      "note_id": "XML5-12",
+      "expected_chunk_id": "xml5:112645:XML5-12:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:112645:XML5-12:chunk:0",
+        "xml5:112645:XML5-11:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:112645:XML5-13",
+      "claim_id": "112645",
+      "note_id": "XML5-13",
+      "expected_chunk_id": "xml5:112645:XML5-13:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:112645:XML5-13:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:112645:XML5-14",
+      "claim_id": "112645",
+      "note_id": "XML5-14",
+      "expected_chunk_id": "xml5:112645:XML5-14:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:112645:XML5-14:chunk:0",
+        "xml5:112645:XML5-15:chunk:0",
+        "xml5:112645:XML5-16:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:112645:XML5-15",
+      "claim_id": "112645",
+      "note_id": "XML5-15",
+      "expected_chunk_id": "xml5:112645:XML5-15:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:112645:XML5-15:chunk:0",
+        "xml5:112645:XML5-16:chunk:0",
+        "xml5:112645:XML5-14:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:112645:XML5-16",
+      "claim_id": "112645",
+      "note_id": "XML5-16",
+      "expected_chunk_id": "xml5:112645:XML5-16:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:112645:XML5-16:chunk:0",
+        "xml5:112645:XML5-15:chunk:0",
+        "xml5:112645:XML5-14:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:112645:XML5-17",
+      "claim_id": "112645",
+      "note_id": "XML5-17",
+      "expected_chunk_id": "xml5:112645:XML5-17:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:112645:XML5-17:chunk:0",
+        "xml5:112645:XML5-18:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:112645:XML5-18",
+      "claim_id": "112645",
+      "note_id": "XML5-18",
+      "expected_chunk_id": "xml5:112645:XML5-18:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:112645:XML5-18:chunk:0",
+        "xml5:112645:XML5-17:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:112645:XML5-19",
+      "claim_id": "112645",
+      "note_id": "XML5-19",
+      "expected_chunk_id": "xml5:112645:XML5-19:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:112645:XML5-19:chunk:0",
+        "xml5:112645:XML5-20:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:112645:XML5-20",
+      "claim_id": "112645",
+      "note_id": "XML5-20",
+      "expected_chunk_id": "xml5:112645:XML5-20:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:112645:XML5-20:chunk:0",
+        "xml5:112645:XML5-19:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:112645:XML5-21",
+      "claim_id": "112645",
+      "note_id": "XML5-21",
+      "expected_chunk_id": "xml5:112645:XML5-21:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:112645:XML5-21:chunk:0",
+        "xml5:112645:XML5-22:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:112645:XML5-22",
+      "claim_id": "112645",
+      "note_id": "XML5-22",
+      "expected_chunk_id": "xml5:112645:XML5-22:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:112645:XML5-22:chunk:0",
+        "xml5:112645:XML5-21:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:112645:XML5-23",
+      "claim_id": "112645",
+      "note_id": "XML5-23",
+      "expected_chunk_id": "xml5:112645:XML5-23:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:112645:XML5-23:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:112645:XML5-24",
+      "claim_id": "112645",
+      "note_id": "XML5-24",
+      "expected_chunk_id": "xml5:112645:XML5-24:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:112645:XML5-24:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:112645:XML5-25",
+      "claim_id": "112645",
+      "note_id": "XML5-25",
+      "expected_chunk_id": "xml5:112645:XML5-25:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:112645:XML5-25:chunk:0",
+        "xml5:112645:XML5-26:chunk:0",
+        "xml5:112645:XML5-27:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:112645:XML5-26",
+      "claim_id": "112645",
+      "note_id": "XML5-26",
+      "expected_chunk_id": "xml5:112645:XML5-26:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:112645:XML5-26:chunk:0",
+        "xml5:112645:XML5-27:chunk:0",
+        "xml5:112645:XML5-25:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:112645:XML5-27",
+      "claim_id": "112645",
+      "note_id": "XML5-27",
+      "expected_chunk_id": "xml5:112645:XML5-27:chunk:0",
+      "matched_rank": 2,
+      "top_results": [
+        "xml5:112645:XML5-26:chunk:0",
+        "xml5:112645:XML5-27:chunk:0",
+        "xml5:112645:XML5-25:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:112645:XML5-28",
+      "claim_id": "112645",
+      "note_id": "XML5-28",
+      "expected_chunk_id": "xml5:112645:XML5-28:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:112645:XML5-28:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:112645:XML5-29",
+      "claim_id": "112645",
+      "note_id": "XML5-29",
+      "expected_chunk_id": "xml5:112645:XML5-29:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:112645:XML5-29:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:112645:XML5-30",
+      "claim_id": "112645",
+      "note_id": "XML5-30",
+      "expected_chunk_id": "xml5:112645:XML5-30:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:112645:XML5-30:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:112645:XML5-31",
+      "claim_id": "112645",
+      "note_id": "XML5-31",
+      "expected_chunk_id": "xml5:112645:XML5-31:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:112645:XML5-31:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:112645:XML5-32",
+      "claim_id": "112645",
+      "note_id": "XML5-32",
+      "expected_chunk_id": "xml5:112645:XML5-32:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:112645:XML5-32:chunk:0",
+        "xml5:121472:XML5-2:chunk:0",
+        "xml5:121472:XML5-3:chunk:0",
+        "xml5:121472:XML5-4:chunk:0",
+        "xml5:121472:XML5-5:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:115373:XML5-1",
+      "claim_id": "115373",
+      "note_id": "XML5-1",
+      "expected_chunk_id": "xml5:115373:XML5-1:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:115373:XML5-1:chunk:0",
+        "xml5:115373:XML5-2:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:115373:XML5-2",
+      "claim_id": "115373",
+      "note_id": "XML5-2",
+      "expected_chunk_id": "xml5:115373:XML5-2:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:115373:XML5-2:chunk:0",
+        "xml5:115373:XML5-1:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:115373:XML5-3",
+      "claim_id": "115373",
+      "note_id": "XML5-3",
+      "expected_chunk_id": "xml5:115373:XML5-3:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:115373:XML5-3:chunk:0",
+        "xml5:115373:XML5-4:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:115373:XML5-4",
+      "claim_id": "115373",
+      "note_id": "XML5-4",
+      "expected_chunk_id": "xml5:115373:XML5-4:chunk:0",
+      "matched_rank": 2,
+      "top_results": [
+        "xml5:115373:XML5-3:chunk:0",
+        "xml5:115373:XML5-4:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:115373:XML5-5",
+      "claim_id": "115373",
+      "note_id": "XML5-5",
+      "expected_chunk_id": "xml5:115373:XML5-5:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:115373:XML5-5:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:115373:XML5-6",
+      "claim_id": "115373",
+      "note_id": "XML5-6",
+      "expected_chunk_id": "xml5:115373:XML5-6:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:115373:XML5-6:chunk:0",
+        "xml5:115373:XML5-7:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:115373:XML5-7",
+      "claim_id": "115373",
+      "note_id": "XML5-7",
+      "expected_chunk_id": "xml5:115373:XML5-7:chunk:0",
+      "matched_rank": 2,
+      "top_results": [
+        "xml5:115373:XML5-6:chunk:0",
+        "xml5:115373:XML5-7:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:115373:XML5-8",
+      "claim_id": "115373",
+      "note_id": "XML5-8",
+      "expected_chunk_id": "xml5:115373:XML5-8:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:115373:XML5-8:chunk:0",
+        "xml5:115373:XML5-9:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:115373:XML5-9",
+      "claim_id": "115373",
+      "note_id": "XML5-9",
+      "expected_chunk_id": "xml5:115373:XML5-9:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:115373:XML5-9:chunk:0",
+        "xml5:115373:XML5-8:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:115373:XML5-10",
+      "claim_id": "115373",
+      "note_id": "XML5-10",
+      "expected_chunk_id": "xml5:115373:XML5-10:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:115373:XML5-10:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:115373:XML5-11",
+      "claim_id": "115373",
+      "note_id": "XML5-11",
+      "expected_chunk_id": "xml5:115373:XML5-11:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:115373:XML5-11:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:115373:XML5-12",
+      "claim_id": "115373",
+      "note_id": "XML5-12",
+      "expected_chunk_id": "xml5:115373:XML5-12:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:115373:XML5-12:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:115373:XML5-13",
+      "claim_id": "115373",
+      "note_id": "XML5-13",
+      "expected_chunk_id": "xml5:115373:XML5-13:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:115373:XML5-13:chunk:0",
+        "xml5:115373:XML5-14:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:115373:XML5-14",
+      "claim_id": "115373",
+      "note_id": "XML5-14",
+      "expected_chunk_id": "xml5:115373:XML5-14:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:115373:XML5-14:chunk:0",
+        "xml5:115373:XML5-13:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:120060:XML5-1",
+      "claim_id": "120060",
+      "note_id": "XML5-1",
+      "expected_chunk_id": "xml5:120060:XML5-1:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:120060:XML5-1:chunk:0",
+        "xml5:120060:XML5-2:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:120060:XML5-2",
+      "claim_id": "120060",
+      "note_id": "XML5-2",
+      "expected_chunk_id": "xml5:120060:XML5-2:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:120060:XML5-2:chunk:0",
+        "xml5:120060:XML5-1:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:120060:XML5-3",
+      "claim_id": "120060",
+      "note_id": "XML5-3",
+      "expected_chunk_id": "xml5:120060:XML5-3:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:120060:XML5-3:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:120060:XML5-4",
+      "claim_id": "120060",
+      "note_id": "XML5-4",
+      "expected_chunk_id": "xml5:120060:XML5-4:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:120060:XML5-4:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:120060:XML5-5",
+      "claim_id": "120060",
+      "note_id": "XML5-5",
+      "expected_chunk_id": "xml5:120060:XML5-5:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:120060:XML5-5:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:120060:XML5-6",
+      "claim_id": "120060",
+      "note_id": "XML5-6",
+      "expected_chunk_id": "xml5:120060:XML5-6:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:120060:XML5-6:chunk:0",
+        "xml5:120060:XML5-7:chunk:0",
+        "xml5:121472:XML5-2:chunk:0",
+        "xml5:121472:XML5-3:chunk:0",
+        "xml5:121472:XML5-4:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:120060:XML5-7",
+      "claim_id": "120060",
+      "note_id": "XML5-7",
+      "expected_chunk_id": "xml5:120060:XML5-7:chunk:0",
+      "matched_rank": 2,
+      "top_results": [
+        "xml5:120060:XML5-6:chunk:0",
+        "xml5:120060:XML5-7:chunk:0",
+        "xml5:121472:XML5-2:chunk:0",
+        "xml5:121472:XML5-3:chunk:0",
+        "xml5:121472:XML5-4:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:121472:XML5-1",
+      "claim_id": "121472",
+      "note_id": "XML5-1",
+      "expected_chunk_id": "xml5:121472:XML5-1:chunk:0",
+      "matched_rank": 4,
+      "top_results": [
+        "xml5:121472:XML5-3:chunk:0",
+        "xml5:121472:XML5-4:chunk:0",
+        "xml5:121472:XML5-5:chunk:0",
+        "xml5:121472:XML5-1:chunk:0",
+        "xml5:121472:XML5-2:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:121472:XML5-2",
+      "claim_id": "121472",
+      "note_id": "XML5-2",
+      "expected_chunk_id": "xml5:121472:XML5-2:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:121472:XML5-2:chunk:0",
+        "xml5:121472:XML5-3:chunk:0",
+        "xml5:121472:XML5-4:chunk:0",
+        "xml5:121472:XML5-5:chunk:0",
+        "xml5:121472:XML5-1:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:121472:XML5-3",
+      "claim_id": "121472",
+      "note_id": "XML5-3",
+      "expected_chunk_id": "xml5:121472:XML5-3:chunk:0",
+      "matched_rank": 1,
+      "top_results": [
+        "xml5:121472:XML5-3:chunk:0",
+        "xml5:121472:XML5-4:chunk:0",
+        "xml5:121472:XML5-5:chunk:0",
+        "xml5:121472:XML5-2:chunk:0",
+        "xml5:121472:XML5-1:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:121472:XML5-4",
+      "claim_id": "121472",
+      "note_id": "XML5-4",
+      "expected_chunk_id": "xml5:121472:XML5-4:chunk:0",
+      "matched_rank": 2,
+      "top_results": [
+        "xml5:121472:XML5-3:chunk:0",
+        "xml5:121472:XML5-4:chunk:0",
+        "xml5:121472:XML5-5:chunk:0",
+        "xml5:121472:XML5-2:chunk:0",
+        "xml5:121472:XML5-1:chunk:0"
+      ]
+    },
+    {
+      "query_id": "query:121472:XML5-5",
+      "claim_id": "121472",
+      "note_id": "XML5-5",
+      "expected_chunk_id": "xml5:121472:XML5-5:chunk:0",
+      "matched_rank": 3,
+      "top_results": [
+        "xml5:121472:XML5-3:chunk:0",
+        "xml5:121472:XML5-4:chunk:0",
+        "xml5:121472:XML5-5:chunk:0",
+        "xml5:121472:XML5-2:chunk:0",
+        "xml5:121472:XML5-1:chunk:0"
+      ]
+    }
+  ]
+}

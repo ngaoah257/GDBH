@@ -1,0 +1,5149 @@
+[
+  {
+    "xml_file": "data_111096_CK2383823080273_25001726_3176.xml",
+    "claim_id": "111096",
+    "effective_date": "2026-03-26",
+    "hit_count": 65,
+    "hits": [
+      {
+        "rule_id": "ELIG.ROUTE.001",
+        "line_id": null,
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "15349447.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "LOGIC.DUPLICATE_LINE.001",
+        "line_id": null,
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "0",
+        "required_evidence": [
+          "XML4"
+        ]
+      },
+      {
+        "rule_id": "LOGIC.DUPLICATE_LINE.001",
+        "line_id": null,
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "0",
+        "required_evidence": [
+          "XML4"
+        ]
+      },
+      {
+        "rule_id": "LOGIC.DUPLICATE_LINE.001",
+        "line_id": null,
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "0",
+        "required_evidence": [
+          "XML4"
+        ]
+      },
+      {
+        "rule_id": "LOGIC.DUPLICATE_LINE.001",
+        "line_id": null,
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "0",
+        "required_evidence": [
+          "XML4"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML2-1",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "13648.00",
+        "required_evidence": [
+          "XML2",
+          "FileThuoc.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML2-4",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "2900.00",
+        "required_evidence": [
+          "XML2",
+          "FileThuoc.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-16",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "848.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-17",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "848.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-1",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "13648.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-10",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "11718.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-11",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "11718.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-12",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "11718.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-13",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "11718.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-14",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "11718.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-15",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "145000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-16",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "11718.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-17",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "11718.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-18",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "145000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-19",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "1650000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-2",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "145000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-20",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "4100000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-3",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "5859.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-4",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2900.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-5",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "1800.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-6",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "11718.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-7",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "145000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-8",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "1650000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-9",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "4100000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-1",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "45000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-10",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-11",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "89700.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-12",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-13",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-14",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "156200.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-15",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "49700.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-16",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "848.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-17",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "848.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-18",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "30200.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-19",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-2",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "30200.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-20",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-21",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-22",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-23",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-24",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-25",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "13400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-26",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-27",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "49700.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-28",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-29",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-3",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-30",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-31",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-32",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-33",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-34",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-35",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-36",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-4",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-5",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-6",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-7",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-8",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-9",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "13400.00",
+        "required_evidence": []
+      }
+    ]
+  },
+  {
+    "xml_file": "data_112645_HT3382796012783_25029071_3176.xml",
+    "claim_id": "112645",
+    "effective_date": "2026-03-30",
+    "hit_count": 305,
+    "hits": [
+      {
+        "rule_id": "ELIG.ROUTE.001",
+        "line_id": null,
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "13352193.53",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.EQUIPMENT_REFERENCE.001",
+        "line_id": "XML3-13",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "39900.00",
+        "required_evidence": [
+          "XML3",
+          "FileTrangThietBi.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML2-53",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "7000.00",
+        "required_evidence": [
+          "XML2",
+          "FileThuoc.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-100",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "513.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-101",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "848.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-102",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "2730.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-103",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-104",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "848.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-105",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "513.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-14",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "546.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-15",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "5460.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-16",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-17",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "342.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-18",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "5460.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-19",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-20",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "342.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-21",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "5460.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-22",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-23",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "342.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-24",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "5460.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-25",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-26",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "342.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-27",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "5460.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-28",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-29",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "342.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-30",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "5460.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-31",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-32",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "342.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-33",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "2730.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-34",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "5460.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-35",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-36",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "342.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-37",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "5460.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-38",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-39",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "342.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-40",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "5460.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-41",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-42",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "342.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-43",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "848.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-44",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "5460.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-45",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-46",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "342.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-47",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "5460.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-48",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-49",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "342.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-50",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "848.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-59",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "546.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-60",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "546.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-61",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "5460.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-62",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-63",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "342.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-64",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "5460.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-65",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-66",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "342.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-67",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "5460.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-68",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-69",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "342.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-70",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "546.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-71",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "546.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-72",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "848.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-73",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "5460.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-74",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-75",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "342.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-76",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "5460.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-77",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-78",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "342.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-87",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "489.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-88",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-89",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "342.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-90",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "848.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-91",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-92",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "342.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-93",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "848.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-94",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-95",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "513.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-96",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "848.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-97",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "2730.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-98",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "2730.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-99",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-1",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "11718.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-10",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "88000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-100",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "58600.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-11",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "88000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-12",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "7323.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-13",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "11718.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-14",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "88000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-15",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "88000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-16",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "7323.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-17",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "11718.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-18",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "88000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-19",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "88000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-2",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "88000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-20",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "7323.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-21",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "404618.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-22",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "11718.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-23",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "88000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-24",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "88000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-25",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "7323.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-26",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "404618.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-27",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "8925.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-28",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "11718.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-29",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "88000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-3",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "88000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-30",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "88000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-31",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "7323.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-32",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "404618.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-33",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "11718.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-34",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "88000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-35",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "88000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-36",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "7323.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-37",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "404618.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-38",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "11718.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-39",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "88000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-4",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "5859.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-40",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "88000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-41",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "7323.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-42",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "404618.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-43",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "41871.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-44",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "11718.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-45",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "88000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-46",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "88000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-47",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "7323.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-48",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "11718.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-49",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "88000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-5",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "11718.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-50",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "88000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-51",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "7323.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-52",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "760.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-53",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "7000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-54",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "11718.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-55",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "88000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-56",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "88000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-57",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "7323.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-58",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "404618.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-59",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "11718.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-6",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "88000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-60",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "88000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-61",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "88000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-62",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "7323.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-63",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "404618.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-64",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "11718.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-65",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "88000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-66",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "88000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-67",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "7323.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-68",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "404618.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-69",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "63500.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-7",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "88000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-70",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "27680.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-71",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "63500.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-72",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "11718.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-73",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "7323.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-74",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "73290.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-75",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "73290.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-76",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "11718.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-77",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "7323.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-78",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "73290.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-79",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "73290.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-8",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "7323.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-80",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "73290.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-81",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "73290.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-82",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "14646.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-83",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "58600.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-84",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "73290.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-85",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "73290.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-86",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "14646.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-87",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "58600.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-88",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "8925.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-89",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "73290.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-9",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "11718.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-90",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "73290.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-91",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "14646.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-92",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "58600.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-93",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "73290.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-94",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "73290.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-95",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "14646.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-96",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "58600.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-97",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "73290.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-98",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "73290.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-99",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "14646.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-1",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "45000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-10",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "28600.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-100",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "513.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-101",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "848.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-102",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2730.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-103",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-104",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "848.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-105",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "513.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-106",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-107",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-108",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-109",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-11",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "73300.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-110",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-111",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-112",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-113",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-114",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-115",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-116",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-117",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-118",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-119",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-12",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "58600.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-120",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-121",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-122",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-123",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-124",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-125",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-126",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-13",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "39900.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-14",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "546.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-15",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "5460.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-16",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-17",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "342.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-18",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "5460.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-19",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-2",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "30200.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-20",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "342.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-21",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "5460.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-22",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-23",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "342.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-24",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "5460.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-25",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-26",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "342.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-27",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "5460.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-28",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-29",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "342.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-3",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-30",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "5460.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-31",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-32",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "342.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-33",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2730.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-34",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "5460.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-35",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-36",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "342.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-37",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "5460.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-38",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-39",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "342.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-4",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-40",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "5460.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-41",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-42",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "342.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-43",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "848.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-44",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "5460.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-45",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-46",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "342.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-47",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "5460.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-48",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-49",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "342.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-5",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-50",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "848.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-51",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "30200.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-52",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-53",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-54",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-55",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-56",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-57",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-58",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "43500.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-59",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "546.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-6",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-60",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "546.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-61",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "5460.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-62",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-63",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "342.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-64",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "5460.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-65",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-66",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "342.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-67",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "5460.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-68",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-69",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "342.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-7",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-70",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "546.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-71",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "546.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-72",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "848.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-73",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "5460.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-74",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-75",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "342.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-76",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "5460.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-77",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-78",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "342.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-79",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "30200.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-8",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-80",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-81",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-82",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-83",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-84",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-85",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-86",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "43500.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-87",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "489.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-88",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-89",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "342.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-9",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "43500.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-90",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "848.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-91",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-92",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "342.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-93",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "848.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-94",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-95",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "513.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-96",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "848.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-97",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2730.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-98",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2730.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-99",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2455.98",
+        "required_evidence": []
+      }
+    ]
+  },
+  {
+    "xml_file": "data_115373_HT3382797064202_25018502_3176.xml",
+    "claim_id": "115373",
+    "effective_date": "2026-03-24",
+    "hit_count": 94,
+    "hits": [
+      {
+        "rule_id": "ELIG.ROUTE.001",
+        "line_id": null,
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "8520140.55",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "LOGIC.DUPLICATE_LINE.001",
+        "line_id": null,
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "0",
+        "required_evidence": [
+          "XML4"
+        ]
+      },
+      {
+        "rule_id": "LOGIC.DUPLICATE_LINE.001",
+        "line_id": null,
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "0",
+        "required_evidence": [
+          "XML4"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML2-21",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "7000.00",
+        "required_evidence": [
+          "XML2",
+          "FileThuoc.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML2-27",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "5500.00",
+        "required_evidence": [
+          "XML2",
+          "FileThuoc.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML2-33",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "5500.00",
+        "required_evidence": [
+          "XML2",
+          "FileThuoc.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML2-39",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "5500.00",
+        "required_evidence": [
+          "XML2",
+          "FileThuoc.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML2-40",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "5500.00",
+        "required_evidence": [
+          "XML2",
+          "FileThuoc.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML2-47",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "5500.00",
+        "required_evidence": [
+          "XML2",
+          "FileThuoc.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML2-9",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "7000.00",
+        "required_evidence": [
+          "XML2",
+          "FileThuoc.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-18",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "546.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-21",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "546.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-30",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "1082.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-32",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "2730.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-1",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "16680.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-10",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "16680.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-11",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "16680.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-12",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "900.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-13",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "900.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-14",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "240776.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-15",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "240776.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-16",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "16680.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-17",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "16680.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-18",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "900.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-19",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "900.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-2",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "16680.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-20",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "145000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-21",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "7000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-22",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "16680.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-23",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "16680.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-24",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "900.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-25",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "900.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-26",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "145000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-27",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "5500.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-28",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "16680.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-29",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "16680.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-3",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "900.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-30",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "900.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-31",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "900.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-32",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "145000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-33",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "5500.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-34",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "16680.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-35",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "16680.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-36",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "900.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-37",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "900.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-38",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "145000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-39",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "5500.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-4",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "900.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-40",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "5500.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-41",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "405000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-42",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "86875.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-43",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "5859.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-44",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "354000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-45",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "5859.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-46",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "145000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-47",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "5500.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-5",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "16680.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-6",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "16680.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-7",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "900.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-8",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "900.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-9",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "7000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-1",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "45000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-10",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "49700.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-11",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "28600.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-12",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "73300.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-13",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "58600.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-14",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "89300.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-15",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "89700.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-16",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "100900.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-17",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "116100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-18",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "546.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-19",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-2",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "30200.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-20",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-21",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "546.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-22",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-23",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "1732400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-24",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "1732400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-25",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-26",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-27",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-28",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-29",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "469800.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-3",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-30",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "1082.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-31",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-32",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2730.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-33",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "144800.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-4",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-5",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-6",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-7",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-8",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-9",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      }
+    ]
+  },
+  {
+    "xml_file": "data_120060_GD4383822650957_26000568_3176.xml",
+    "claim_id": "120060",
+    "effective_date": "2026-03-30",
+    "hit_count": 88,
+    "hits": [
+      {
+        "rule_id": "ELIG.ROUTE.001",
+        "line_id": null,
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "3573054.40",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "LOGIC.DUPLICATE_LINE.001",
+        "line_id": null,
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "0",
+        "required_evidence": [
+          "XML4"
+        ]
+      },
+      {
+        "rule_id": "LOGIC.DUPLICATE_LINE.001",
+        "line_id": null,
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "0",
+        "required_evidence": [
+          "XML4"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML2-21",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "1120.00",
+        "required_evidence": [
+          "XML2",
+          "FileThuoc.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML2-22",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "1396.00",
+        "required_evidence": [
+          "XML2",
+          "FileThuoc.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML2-23",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "19900.00",
+        "required_evidence": [
+          "XML2",
+          "FileThuoc.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML2-32",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "5500.00",
+        "required_evidence": [
+          "XML2",
+          "FileThuoc.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML2-6",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "840.00",
+        "required_evidence": [
+          "XML2",
+          "FileThuoc.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML2-7",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "1120.00",
+        "required_evidence": [
+          "XML2",
+          "FileThuoc.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML2-8",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "1396.00",
+        "required_evidence": [
+          "XML2",
+          "FileThuoc.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML2-9",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "19900.00",
+        "required_evidence": [
+          "XML2",
+          "FileThuoc.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-20",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "489.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-21",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "2730.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-24",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "5936.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-25",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "2730.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-26",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "513.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-29",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "4240.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-30",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "2730.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-31",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "342.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-32",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "2730.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-1",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "11718.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-10",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "819000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-11",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "5859.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-12",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "74290.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-13",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "5859.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-14",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "36750.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-15",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "6076.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-16",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "102900.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-17",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "5859.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-18",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2300.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-19",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2300.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-2",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "145000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-20",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "5859.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-21",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "1120.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-22",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "1396.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-23",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "19900.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-24",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "102900.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-25",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "5859.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-26",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2300.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-27",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2300.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-28",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "11718.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-29",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "145000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-3",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2300.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-30",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2300.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-31",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2300.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-32",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "5500.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-4",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2300.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-5",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "5859.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-6",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "840.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-7",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "1120.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-8",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "1396.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-9",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "19900.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-1",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "45000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-10",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-11",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "89700.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-12",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "139200.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-13",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-14",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-15",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "49700.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-16",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "28600.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-17",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "73300.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-18",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "58600.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-19",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "89300.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-2",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "30200.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-20",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "489.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-21",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2730.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-22",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "437500.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-23",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "144800.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-24",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "5936.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-25",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2730.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-26",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "513.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-27",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "17000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-28",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "437500.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-29",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "4240.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-3",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-30",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2730.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-31",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "342.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-32",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2730.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-33",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-34",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-35",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-36",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-4",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-5",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-6",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-7",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-8",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-9",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "13400.00",
+        "required_evidence": []
+      }
+    ]
+  },
+  {
+    "xml_file": "data_121472_CK2383822366571_25000934_3176.xml",
+    "claim_id": "121472",
+    "effective_date": "2026-03-30",
+    "hit_count": 40,
+    "hits": [
+      {
+        "rule_id": "ELIG.ROUTE.001",
+        "line_id": null,
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2482982.40",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "LOGIC.DUPLICATE_LINE.001",
+        "line_id": null,
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "0",
+        "required_evidence": [
+          "XML4"
+        ]
+      },
+      {
+        "rule_id": "LOGIC.DUPLICATE_LINE.001",
+        "line_id": null,
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "0",
+        "required_evidence": [
+          "XML4"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML2-3",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "18880.00",
+        "required_evidence": [
+          "XML2",
+          "FileThuoc.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML2-4",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "1396.00",
+        "required_evidence": [
+          "XML2",
+          "FileThuoc.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML2-5",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "1526.40",
+        "required_evidence": [
+          "XML2",
+          "FileThuoc.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-2",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "489.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-22",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "2730.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-23",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "489.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.ITEM_CODE.001",
+        "line_id": "XML3-24",
+        "severity": "pending",
+        "suggested_action": "request_more",
+        "estimated_amount_impact": "3990.00",
+        "required_evidence": [
+          "XML3",
+          "FileVatTuYTe.xlsx"
+        ]
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-1",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "7323.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-2",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "5859.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-3",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "18880.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-4",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "1396.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML2-5",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "1526.40",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-1",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "45000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-10",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-11",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-12",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-13",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-14",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-15",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "49700.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-16",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "95300.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-17",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "1486800.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-18",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "58600.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-19",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "73300.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-2",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "489.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-20",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "73300.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-21",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "13400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-22",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "2730.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-23",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "489.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-24",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "3990.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-25",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "257100.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-3",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "30200.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-4",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-5",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-6",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-7",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "22400.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-8",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "28000.00",
+        "required_evidence": []
+      },
+      {
+        "rule_id": "MASTER.PRACTITIONER_EXISTS.001",
+        "line_id": "XML3-9",
+        "severity": "warning",
+        "suggested_action": "warn",
+        "estimated_amount_impact": "28000.00",
+        "required_evidence": []
+      }
+    ]
+  }
+]

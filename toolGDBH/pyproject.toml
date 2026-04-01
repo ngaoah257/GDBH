@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tool-giamdinh"
+version = "0.1.0"
+description = "Scaffold MVP cho tool giam dinh BHYT"
+requires-python = ">=3.11"
+dependencies = [
+  "dearpygui>=2.1.0",
+]
+
+[tool.setuptools]
+py-modules = []
+
+[tool.pytest.ini_options]
+testpaths = [
+  "tests",
+  "tests/integration",
+  "modules/eligibility-service/tests",
+  "modules/master-data-service/tests",
+  "modules/reviewer-workspace/tests",
+  "modules/parser-normalizer/tests",
+  "modules/guideline-rule-builder/tests",
+  "modules/rule-registry/tests",
+  "modules/deterministic-rule-engine/tests",
+  "modules/case-triage/tests",
+  "modules/audit-reporting/tests",
+]
+addopts = "-q -p no:cacheprovider"

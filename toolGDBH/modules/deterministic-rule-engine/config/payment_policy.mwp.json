@@ -1,0 +1,13 @@
+{
+  "source_ref": "payment-policy@0.1.0",
+  "included_in_price_codes": {
+    "service": [],
+    "drug": [],
+    "supply": []
+  },
+  "included_in_price_keywords": {
+    "service": [],
+    "drug": [],
+    "supply": []
+  }
+}

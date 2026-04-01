@@ -1,0 +1,277 @@
+{
+  "source_ref": "clinical-policy@0.1.0",
+  "drug_context_heuristics": [
+    {
+      "group": ["khang_sinh"],
+      "drug_keywords": ["fisulty", "vicimadol", "biticans", "cef", "cillin", "floxacin"],
+      "context_keywords": ["nhiem trung", "viem", "sot", "khang sinh"]
+    },
+    {
+      "group": ["giam_dau_khang_viem"],
+      "drug_keywords": ["paracetamol", "diclofenac"],
+      "context_keywords": ["dau", "sot", "viem"]
+    },
+    {
+      "group": ["corticoid"],
+      "drug_keywords": ["solu-medrol", "pdsolone", "pred", "methylpred"],
+      "context_keywords": ["di ung", "viem", "phu", "hen"]
+    },
+    {
+      "group": ["dinh_duong_truyen"],
+      "drug_keywords": ["nutriflex", "glucose", "natri clorid"],
+      "context_keywords": ["dinh duong", "nuoi duong", "sonde", "an kem", "buon non", "hoa chat", "oxaliplatin", "5fu", "irinotecan", "truyen"]
+    }
+  ],
+  "service_context_heuristics": [
+    {
+      "group": ["x_quang_nguc"],
+      "service_keywords": ["x-quang nguc", "x quang nguc", "xquang nguc"],
+      "context_keywords": ["phoi", "nguc", "ho", "kho tho", "ho hap"]
+    },
+    {
+      "group": ["sieu_am_o_bung"],
+      "service_keywords": ["sieu am o bung"],
+      "context_keywords": ["bung", "gan", "mat", "than", "dau bung"]
+    },
+    {
+      "group": ["dien_tim"],
+      "service_keywords": ["dien tim", "ecg"],
+      "context_keywords": ["tim", "mach", "huyet ap", "nguc"]
+    },
+    {
+      "group": ["ct_nguc_co_can_quang"],
+      "service_keywords": ["ct nguc co can quang"],
+      "context_keywords": ["ung thu phoi", "phoi", "nguc", "ho", "egfr", "tki", "di can"]
+    },
+    {
+      "group": ["ct_tang_tren_o_bung"],
+      "service_keywords": ["ct tang tren o bung"],
+      "context_keywords": ["da day", "bung", "gan", "di can", "hoa chat"]
+    },
+    {
+      "group": ["xa_hinh_xuong"],
+      "service_keywords": ["xa hinh xuong", "99mtc-mdp"],
+      "context_keywords": ["xuong", "di can", "dau xuong", "ung thu"]
+    },
+    {
+      "group": ["truyen_hoa_chat_tinh_mach"],
+      "service_keywords": ["truyen hoa chat tinh mach"],
+      "context_keywords": ["hoa chat", "phac do", "ung thu", "tki", "oxaliplatin", "5fu", "irinotecan", "phoi", "ho", "dau nguc", "di can"]
+    }
+  ],
+  "cls_context_heuristics": [
+    {
+      "group": ["huyet_hoc"],
+      "service_codes": ["22.0120.1370"],
+      "context_keywords": ["da niem mac", "thieu mau", "nhiem trung", "sot", "met"]
+    },
+    {
+      "group": ["sinh_hoa_mau"],
+      "service_codes": ["23.0058.1487", "23.0166.1494", "23.0051.1494", "23.0075.1494", "23.0007.1494", "23.0020.1493", "23.0019.1493"],
+      "context_keywords": ["an kem", "nuoi duong", "bung", "viem", "nhiem trung", "theo doi"]
+    },
+    {
+      "group": ["nuoc_tieu"],
+      "service_codes": ["23.0206.1596"],
+      "context_keywords": ["nuoc tieu", "than", "bung", "theo doi"]
+    }
+  ],
+  "department_context_heuristics": {
+    "K01": ["ung buou", "u ac", "c13", "ha hau"],
+    "K19": ["viem", "nhiem trung", "bung", "theo doi"],
+    "K02": ["cap cuu", "hoi suc", "mach", "huyet ap"],
+    "K03": ["noi", "bung", "theo doi", "an kem"],
+    "K03.1": ["noi", "bung", "theo doi", "an kem"],
+    "K19.1": ["tai", "mui", "hong", "dau", "co", "ung buou"],
+    "K19.2": ["vu", "phu khoa", "u", "ung buou"],
+    "K26": ["phau thuat", "gay me", "hoi suc"],
+    "K33": ["xa", "hat nhan", "ung buou", "ung thu", "hoa chat", "phoi", "ho", "nguc", "egfr", "tki", "di can"],
+    "K48": ["hoi suc", "tich cuc", "tho", "mach"],
+    "K48.1": ["giam nhe", "dau", "cham soc"]
+  },
+  "diagnosis_context_aliases": {
+    "C13": ["ung thu ha hau", "ha hau", "mo thong da day", "chan sonde", "nuoi duong"],
+    "C16": ["ung thu da day", "k da day", "da day", "hoa chat", "oxaliplatin", "5fu", "irinotecan", "an kem", "buon non"],
+    "C22": ["ung thu gan", "hcc", "u gan", "tace", "sorafenib", "dau suon"],
+    "C34": ["ung thu phoi", "phoi", "tki", "tkis", "egfr", "ho", "dau nguc", "di can"],
+    "C50": ["ung thu vu", "u vu", "hoa chat", "paclitaxel", "docetaxel", "vinorelbine", "navelbin"]
+  },
+  "disease_profiles": [
+    {
+      "profile_id": "DX.C13.001",
+      "diagnosis_code_prefixes": ["C13"],
+      "diagnosis_aliases": ["ung thu ha hau", "ha hau", "mo thong da day", "chan sonde", "nuoi duong"],
+      "department_context_keywords": {
+        "K01": ["ung buou", "ha hau", "sonde", "nuoi duong"],
+        "K19.1": ["tai mui hong", "hong", "co", "ung buou"]
+      },
+      "line_rules": [
+        {
+          "rule_id": "supportive_nutrition",
+          "line_types": ["drug"],
+          "item_name_keywords": ["natri clorid", "glucose", "nutriflex"],
+          "required_note_keywords": ["chan sonde", "nuoi duong", "ha hau", "viem"],
+          "required_note_match": "any",
+          "context_label": "ho tro dinh duong va cham soc sonde"
+        }
+      ],
+      "result_rules": [
+        {
+          "rule_id": "infection_monitoring",
+          "service_codes": ["22.0120.1370"],
+          "required_note_keywords": ["viem", "chan sonde", "chay dich", "sot"],
+          "required_note_match": "any",
+          "context_label": "theo doi nhiem trung quanh sonde"
+        }
+      ]
+    },
+    {
+      "profile_id": "DX.C16.001",
+      "diagnosis_code_prefixes": ["C16"],
+      "diagnosis_aliases": ["ung thu da day", "k da day", "da day", "hoa chat", "oxaliplatin", "5fu", "irinotecan", "an kem", "buon non"],
+      "department_context_keywords": {
+        "K33": ["ung buou", "hoa chat", "da day", "an kem", "buon non"]
+      },
+      "line_rules": [
+        {
+          "rule_id": "supportive_infusion",
+          "line_types": ["drug"],
+          "item_name_keywords": ["natri clorid", "glucose", "nutriflex"],
+          "required_note_keywords": ["hoa chat", "oxaliplatin", "5fu", "irinotecan", "an kem", "buon non"],
+          "required_note_match": "any",
+          "context_label": "ho tro truyen hoa chat ung thu da day"
+        },
+        {
+          "rule_id": "upper_abdomen_ct",
+          "line_types": ["service"],
+          "item_name_keywords": ["ct tang tren o bung"],
+          "required_note_keywords": ["da day", "gan", "di can", "hoa chat"],
+          "required_note_match": "any",
+          "context_label": "ct tang tren o bung trong theo doi ung thu da day"
+        }
+      ],
+      "result_rules": []
+    },
+    {
+      "profile_id": "DX.C34.001",
+      "diagnosis_code_prefixes": ["C34"],
+      "diagnosis_aliases": ["ung thu phoi", "phoi", "tki", "tkis", "egfr", "ho", "dau nguc", "di can"],
+      "department_context_keywords": {
+        "K33": ["ung buou", "ung thu", "phoi", "egfr", "tki", "di can"]
+      },
+      "line_rules": [
+        {
+          "rule_id": "chest_ct_with_contrast",
+          "line_types": ["service"],
+          "item_name_keywords": ["ct nguc co can quang"],
+          "required_note_keywords": ["ung thu phoi", "phoi", "egfr", "di can", "ho", "nguc"],
+          "required_note_match": "any",
+          "context_label": "ct nguc trong theo doi ung thu phoi"
+        },
+        {
+          "rule_id": "chemotherapy_infusion",
+          "line_types": ["service"],
+          "item_name_keywords": ["truyen hoa chat tinh mach"],
+          "department_codes": ["K33"],
+          "required_note_keywords": ["hoa chat", "phac do", "tki", "egfr", "phoi", "di can", "dau nguc"],
+          "required_note_match": "any",
+          "context_label": "truyen hoa chat tinh mach ung thu phoi"
+        },
+        {
+          "rule_id": "contrast_support_for_ct",
+          "line_types": ["drug"],
+          "item_name_keywords": ["omnipaque"],
+          "required_note_keywords": ["ct", "nguc", "ung thu phoi", "egfr", "di can", "ho"],
+          "required_note_match": "any",
+          "context_label": "thuoc can quang phuc vu cls ung thu phoi"
+        }
+      ],
+      "result_rules": []
+    },
+    {
+      "profile_id": "DX.C50.001",
+      "diagnosis_code_prefixes": ["C50"],
+      "diagnosis_aliases": ["ung thu vu", "u vu", "hoa chat", "paclitaxel", "docetaxel", "vinorelbine", "navelbin"],
+      "department_context_keywords": {
+        "K19.2": ["vu", "ung buou", "hoa chat"]
+      },
+      "line_rules": [
+        {
+          "rule_id": "breast_cancer_chemotherapy",
+          "line_types": ["service"],
+          "item_name_keywords": ["hoa chat", "paclitaxel", "docetaxel", "vinorelbine", "navelbin"],
+          "required_note_keywords": ["ung thu vu", "hoa chat", "paclitaxel", "docetaxel", "vinorelbine", "navelbin"],
+          "required_note_match": "any",
+          "context_label": "hoa chat ung thu vu"
+        }
+      ],
+      "result_rules": []
+    }
+  ],
+  "equipment_required_service_heuristics": [
+    {
+      "group": ["x_quang"],
+      "service_keywords": ["x-quang", "x quang"],
+      "equipment_prefixes": ["XQ."]
+    },
+    {
+      "group": ["sieu_am"],
+      "service_keywords": ["sieu am"],
+      "equipment_prefixes": ["SA."]
+    },
+    {
+      "group": ["dien_tim"],
+      "service_keywords": ["dien tim", "ecg"],
+      "equipment_prefixes": ["DT.", "ĐT."]
+    },
+    {
+      "group": ["xet_nghiem_huyet_hoc"],
+      "service_keywords": ["tong phan tich te bao mau", "huyet hoc"],
+      "equipment_prefixes": ["HH."]
+    },
+    {
+      "group": ["xet_nghiem_sinh_hoa"],
+      "service_keywords": ["dinh luong", "dien giai", "albumin", "ast", "alt"],
+      "equipment_prefixes": ["SH."]
+    },
+    {
+      "group": ["noi_soi"],
+      "service_keywords": ["noi soi"],
+      "equipment_prefixes": ["NS.", "MNS."]
+    }
+  ],
+  "service_duplicate_thresholds": [
+    {
+      "group": "giuong",
+      "match_prefixes": ["K"],
+      "max_per_day": 99
+    },
+    {
+      "group": "cls_thong_thuong",
+      "match_prefixes": ["22.", "23.", "18.", "02."],
+      "max_per_day": 1
+    },
+    {
+      "group": "kham",
+      "match_prefixes": ["12."],
+      "max_per_day": 1
+    }
+  ],
+  "cls_duplicate_thresholds": [
+    {
+      "group": "cong_thuc_mau",
+      "service_codes": ["22.0120.1370"],
+      "max_per_day": 2
+    },
+    {
+      "group": "nuoc_tieu",
+      "service_codes": ["23.0206.1596"],
+      "max_per_day": 2
+    },
+    {
+      "group": "sinh_hoa_mau",
+      "service_codes": ["23.0058.1487", "23.0166.1494", "23.0051.1494", "23.0075.1494", "23.0007.1494", "23.0020.1493", "23.0019.1493"],
+      "max_per_day": 1
+    }
+  ]
+}

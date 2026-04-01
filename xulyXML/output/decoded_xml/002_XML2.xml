@@ -1,0 +1,4105 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CHITIEU_CHITIET_THUOC>
+    <DSACH_CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>1</STT>
+            <MA_THUOC>40.1021</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Natri clorid 0,9%]]></TEN_THUOC>
+            <DON_VI_TINH>Chai</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[0,9% 500ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE>Chai</DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[2 Chai/lần * 1 lần/ngày * 1 ngày [2 Chai/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Truyền tĩnh mạch 60g/p]]></CACH_DUNG>
+            <SO_DANG_KY>893110118423</SO_DANG_KY>
+            <TT_THAU><![CDATA[1135/QĐ-SYT;G1;N4;2024]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>2.000</SO_LUONG>
+            <DON_GIA>5859.000</DON_GIA>
+            <THANH_TIEN_BV>11718.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>11718.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>585.90</T_BNCCT>
+            <T_BHTT>11132.10</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>14456/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603100652</NGAY_YL>
+            <NGAY_TH_YL>202603100730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>2</STT>
+            <MA_THUOC>40.175</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Fisulty 2 g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Test (-) Pha 20ml Natriclorid 0,9% tiêm TM sáng chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110656124</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N4;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>88000.000</DON_GIA>
+            <THANH_TIEN_BV>88000.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>88000.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>4400.00</T_BNCCT>
+            <T_BHTT>83600.00</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>14456/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603100652</NGAY_YL>
+            <NGAY_TH_YL>202603101330</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>3</STT>
+            <MA_THUOC>40.175</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Fisulty 2 g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Test (-) Pha 20ml Natriclorid 0,9% tiêm TM sáng chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110656124</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N4;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>88000.000</DON_GIA>
+            <THANH_TIEN_BV>88000.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>88000.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>4400.00</T_BNCCT>
+            <T_BHTT>83600.00</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>14456/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603100652</NGAY_YL>
+            <NGAY_TH_YL>202603100730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>4</STT>
+            <MA_THUOC>40.1021</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Natri clorid 0,9%]]></TEN_THUOC>
+            <DON_VI_TINH>Chai</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[0,9% 500ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE>Chai</DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Chai/lần * 1 lần/ngày * 1 ngày [1 Chai/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Dung dịch pha tiêm]]></CACH_DUNG>
+            <SO_DANG_KY>893110118423</SO_DANG_KY>
+            <TT_THAU><![CDATA[1135/QĐ-SYT;G1;N4;2024]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>5859.000</DON_GIA>
+            <THANH_TIEN_BV>5859.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>5859.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>292.95</T_BNCCT>
+            <T_BHTT>5566.05</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>14456/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603100652</NGAY_YL>
+            <NGAY_TH_YL>202603100730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>5</STT>
+            <MA_THUOC>40.1021</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Natri clorid 0,9%]]></TEN_THUOC>
+            <DON_VI_TINH>Chai</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[0,9% 500ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE>Chai</DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[2 Chai/lần * 1 lần/ngày * 1 ngày [2 Chai/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Truyền tĩnh mạch 60g/p]]></CACH_DUNG>
+            <SO_DANG_KY>893110118423</SO_DANG_KY>
+            <TT_THAU><![CDATA[1135/QĐ-SYT;G1;N4;2024]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>2.000</SO_LUONG>
+            <DON_GIA>5859.000</DON_GIA>
+            <THANH_TIEN_BV>11718.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>11718.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>585.90</T_BNCCT>
+            <T_BHTT>11132.10</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603110619</NGAY_YL>
+            <NGAY_TH_YL>202603110730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>6</STT>
+            <MA_THUOC>40.175</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Fisulty 2 g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Pha 20ml Natriclorid 0,9% tiêm TM sáng chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110656124</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N4;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>88000.000</DON_GIA>
+            <THANH_TIEN_BV>88000.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>88000.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>4400.00</T_BNCCT>
+            <T_BHTT>83600.00</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603110619</NGAY_YL>
+            <NGAY_TH_YL>202603111330</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>7</STT>
+            <MA_THUOC>40.175</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Fisulty 2 g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Pha 20ml Natriclorid 0,9% tiêm TM sáng chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110656124</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N4;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>88000.000</DON_GIA>
+            <THANH_TIEN_BV>88000.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>88000.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>4400.00</T_BNCCT>
+            <T_BHTT>83600.00</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603110619</NGAY_YL>
+            <NGAY_TH_YL>202603110730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>8</STT>
+            <MA_THUOC>40.1015</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Glucose 5%]]></TEN_THUOC>
+            <DON_VI_TINH>Chai</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[5%, 500ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Dung dịch tiêm truyền]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Chai/lần * 1 lần/ngày * 1 ngày [1 Chai/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[truyền tĩnh mạch 60 g/p]]></CACH_DUNG>
+            <SO_DANG_KY>893110238000</SO_DANG_KY>
+            <TT_THAU>KQ2500073233_2505061032;G1;N4;2025</TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>7323.000</DON_GIA>
+            <THANH_TIEN_BV>7323.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>7323.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>366.15</T_BNCCT>
+            <T_BHTT>6956.85</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603110619</NGAY_YL>
+            <NGAY_TH_YL>202603110730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>9</STT>
+            <MA_THUOC>40.1021</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Natri clorid 0,9%]]></TEN_THUOC>
+            <DON_VI_TINH>Chai</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[0,9% 500ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE>Chai</DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[2 Chai/lần * 1 lần/ngày * 1 ngày [2 Chai/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Truyền tĩnh mạch 60g/p]]></CACH_DUNG>
+            <SO_DANG_KY>893110118423</SO_DANG_KY>
+            <TT_THAU><![CDATA[1135/QĐ-SYT;G1;N4;2024]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>2.000</SO_LUONG>
+            <DON_GIA>5859.000</DON_GIA>
+            <THANH_TIEN_BV>11718.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>11718.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>585.90</T_BNCCT>
+            <T_BHTT>11132.10</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603120620</NGAY_YL>
+            <NGAY_TH_YL>202603120730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>10</STT>
+            <MA_THUOC>40.175</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Fisulty 2 g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Pha 20ml Natriclorid 0,9% tiêm TM sáng chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110656124</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N4;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>88000.000</DON_GIA>
+            <THANH_TIEN_BV>88000.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>88000.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>4400.00</T_BNCCT>
+            <T_BHTT>83600.00</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603120620</NGAY_YL>
+            <NGAY_TH_YL>202603121330</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>11</STT>
+            <MA_THUOC>40.175</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Fisulty 2 g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Pha 20ml Natriclorid 0,9% tiêm TM sáng chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110656124</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N4;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>88000.000</DON_GIA>
+            <THANH_TIEN_BV>88000.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>88000.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>4400.00</T_BNCCT>
+            <T_BHTT>83600.00</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603120620</NGAY_YL>
+            <NGAY_TH_YL>202603120730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>12</STT>
+            <MA_THUOC>40.1015</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Glucose 5%]]></TEN_THUOC>
+            <DON_VI_TINH>Chai</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[5%, 500ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Dung dịch tiêm truyền]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Chai/lần * 1 lần/ngày * 1 ngày [1 Chai/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[truyền tĩnh mạch 60 g/p]]></CACH_DUNG>
+            <SO_DANG_KY>893110238000</SO_DANG_KY>
+            <TT_THAU>KQ2500073233_2505061032;G1;N4;2025</TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>7323.000</DON_GIA>
+            <THANH_TIEN_BV>7323.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>7323.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>366.15</T_BNCCT>
+            <T_BHTT>6956.85</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603120620</NGAY_YL>
+            <NGAY_TH_YL>202603120730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>13</STT>
+            <MA_THUOC>40.1021</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Natri clorid 0,9%]]></TEN_THUOC>
+            <DON_VI_TINH>Chai</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[0,9% 500ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE>Chai</DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[2 Chai/lần * 1 lần/ngày * 1 ngày [2 Chai/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Truyền tĩnh mạch 60g/p]]></CACH_DUNG>
+            <SO_DANG_KY>893110118423</SO_DANG_KY>
+            <TT_THAU><![CDATA[1135/QĐ-SYT;G1;N4;2024]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>2.000</SO_LUONG>
+            <DON_GIA>5859.000</DON_GIA>
+            <THANH_TIEN_BV>11718.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>11718.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>585.90</T_BNCCT>
+            <T_BHTT>11132.10</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603130621</NGAY_YL>
+            <NGAY_TH_YL>202603130730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>14</STT>
+            <MA_THUOC>40.175</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Fisulty 2 g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Pha 20ml Natriclorid 0,9% tiêm TM sáng chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110656124</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N4;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>88000.000</DON_GIA>
+            <THANH_TIEN_BV>88000.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>88000.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>4400.00</T_BNCCT>
+            <T_BHTT>83600.00</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603130621</NGAY_YL>
+            <NGAY_TH_YL>202603131330</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>15</STT>
+            <MA_THUOC>40.175</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Fisulty 2 g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Pha 20ml Natriclorid 0,9% tiêm TM sáng chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110656124</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N4;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>88000.000</DON_GIA>
+            <THANH_TIEN_BV>88000.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>88000.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>4400.00</T_BNCCT>
+            <T_BHTT>83600.00</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603130621</NGAY_YL>
+            <NGAY_TH_YL>202603130730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>16</STT>
+            <MA_THUOC>40.1015</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Glucose 5%]]></TEN_THUOC>
+            <DON_VI_TINH>Chai</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[5%, 500ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Dung dịch tiêm truyền]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Chai/lần * 1 lần/ngày * 1 ngày [1 Chai/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[truyền tĩnh mạch 60 g/p]]></CACH_DUNG>
+            <SO_DANG_KY>893110238000</SO_DANG_KY>
+            <TT_THAU>KQ2500073233_2505061032;G1;N4;2025</TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>7323.000</DON_GIA>
+            <THANH_TIEN_BV>7323.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>7323.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>366.15</T_BNCCT>
+            <T_BHTT>6956.85</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603130621</NGAY_YL>
+            <NGAY_TH_YL>202603130730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>17</STT>
+            <MA_THUOC>40.1021</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Natri clorid 0,9%]]></TEN_THUOC>
+            <DON_VI_TINH>Chai</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[0,9% 500ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE>Chai</DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[2 Chai/lần * 1 lần/ngày * 1 ngày [2 Chai/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Truyền tĩnh mạch 60g/p]]></CACH_DUNG>
+            <SO_DANG_KY>893110118423</SO_DANG_KY>
+            <TT_THAU><![CDATA[1135/QĐ-SYT;G1;N4;2024]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>2.000</SO_LUONG>
+            <DON_GIA>5859.000</DON_GIA>
+            <THANH_TIEN_BV>11718.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>11718.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>585.90</T_BNCCT>
+            <T_BHTT>11132.10</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603121615</NGAY_YL>
+            <NGAY_TH_YL>202603140730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>18</STT>
+            <MA_THUOC>40.175</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Fisulty 2 g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Pha 20ml Natriclorid 0,9% tiêm TM sáng chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110656124</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N4;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>88000.000</DON_GIA>
+            <THANH_TIEN_BV>88000.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>88000.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>4400.00</T_BNCCT>
+            <T_BHTT>83600.00</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603121615</NGAY_YL>
+            <NGAY_TH_YL>202603141330</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>19</STT>
+            <MA_THUOC>40.175</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Fisulty 2 g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Pha 20ml Natriclorid 0,9% tiêm TM sáng chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110656124</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N4;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>88000.000</DON_GIA>
+            <THANH_TIEN_BV>88000.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>88000.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>4400.00</T_BNCCT>
+            <T_BHTT>83600.00</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603121615</NGAY_YL>
+            <NGAY_TH_YL>202603140730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>20</STT>
+            <MA_THUOC>40.1015</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Glucose 5%]]></TEN_THUOC>
+            <DON_VI_TINH>Chai</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[5%, 500ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Dung dịch tiêm truyền]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Chai/lần * 1 lần/ngày * 1 ngày [1 Chai/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[truyền tĩnh mạch 60 g/p]]></CACH_DUNG>
+            <SO_DANG_KY>893110238000</SO_DANG_KY>
+            <TT_THAU>KQ2500073233_2505061032;G1;N4;2025</TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>7323.000</DON_GIA>
+            <THANH_TIEN_BV>7323.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>7323.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>366.15</T_BNCCT>
+            <T_BHTT>6956.85</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603121615</NGAY_YL>
+            <NGAY_TH_YL>202603140730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>21</STT>
+            <MA_THUOC>40.1012</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Nutriflex Peri]]></TEN_THUOC>
+            <DON_VI_TINH>Túi</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[40g + 80g, Chất điện giải; 1000ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Dung dịch tiêm truyền tĩnh mạch]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Túi/lần * 1 lần/ngày * 1 ngày [1 Túi/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[truyền tĩnh mạch 40 g/p]]></CACH_DUNG>
+            <SO_DANG_KY>VN-18157-14</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N1;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>404618.000</DON_GIA>
+            <THANH_TIEN_BV>404618.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>404618.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>20230.90</T_BNCCT>
+            <T_BHTT>384387.10</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603121615</NGAY_YL>
+            <NGAY_TH_YL>202603140730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>22</STT>
+            <MA_THUOC>40.1021</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Natri clorid 0,9%]]></TEN_THUOC>
+            <DON_VI_TINH>Chai</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[0,9% 500ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE>Chai</DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[2 Chai/lần * 1 lần/ngày * 1 ngày [2 Chai/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Truyền tĩnh mạch 60g/p]]></CACH_DUNG>
+            <SO_DANG_KY>893110118423</SO_DANG_KY>
+            <TT_THAU><![CDATA[1135/QĐ-SYT;G1;N4;2024]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>2.000</SO_LUONG>
+            <DON_GIA>5859.000</DON_GIA>
+            <THANH_TIEN_BV>11718.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>11718.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>585.90</T_BNCCT>
+            <T_BHTT>11132.10</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603121618</NGAY_YL>
+            <NGAY_TH_YL>202603150730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>23</STT>
+            <MA_THUOC>40.175</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Fisulty 2 g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Pha 20ml Natriclorid 0,9% tiêm TM sáng chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110656124</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N4;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>88000.000</DON_GIA>
+            <THANH_TIEN_BV>88000.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>88000.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>4400.00</T_BNCCT>
+            <T_BHTT>83600.00</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603121618</NGAY_YL>
+            <NGAY_TH_YL>202603151330</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>24</STT>
+            <MA_THUOC>40.175</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Fisulty 2 g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Pha 20ml Natriclorid 0,9% tiêm TM sáng chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110656124</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N4;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>88000.000</DON_GIA>
+            <THANH_TIEN_BV>88000.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>88000.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>4400.00</T_BNCCT>
+            <T_BHTT>83600.00</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603121618</NGAY_YL>
+            <NGAY_TH_YL>202603150730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>25</STT>
+            <MA_THUOC>40.1015</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Glucose 5%]]></TEN_THUOC>
+            <DON_VI_TINH>Chai</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[5%, 500ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Dung dịch tiêm truyền]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Chai/lần * 1 lần/ngày * 1 ngày [1 Chai/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[truyền tĩnh mạch 60 g/p]]></CACH_DUNG>
+            <SO_DANG_KY>893110238000</SO_DANG_KY>
+            <TT_THAU>KQ2500073233_2505061032;G1;N4;2025</TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>7323.000</DON_GIA>
+            <THANH_TIEN_BV>7323.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>7323.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>366.15</T_BNCCT>
+            <T_BHTT>6956.85</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603121618</NGAY_YL>
+            <NGAY_TH_YL>202603150730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>26</STT>
+            <MA_THUOC>40.1012</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Nutriflex Peri]]></TEN_THUOC>
+            <DON_VI_TINH>Túi</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[40g + 80g, Chất điện giải; 1000ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Dung dịch tiêm truyền tĩnh mạch]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Túi/lần * 1 lần/ngày * 1 ngày [1 Túi/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[truyền tĩnh mạch 40 g/p]]></CACH_DUNG>
+            <SO_DANG_KY>VN-18157-14</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N1;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>404618.000</DON_GIA>
+            <THANH_TIEN_BV>404618.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>404618.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>20230.90</T_BNCCT>
+            <T_BHTT>384387.10</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603121618</NGAY_YL>
+            <NGAY_TH_YL>202603150730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>27</STT>
+            <MA_THUOC>40.48</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Paracetamol 10mg/ml]]></TEN_THUOC>
+            <DON_VI_TINH>Túi</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[1g/100ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.05</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Túi]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Túi/lần * 1 lần/ngày * 1 ngày [1 Túi/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[truyền tĩnh mạch 60g/p]]></CACH_DUNG>
+            <SO_DANG_KY>893110055900</SO_DANG_KY>
+            <TT_THAU><![CDATA[1135/QĐ-SYT;G1;N4;2024]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>8925.000</DON_GIA>
+            <THANH_TIEN_BV>8925.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>8925.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>446.25</T_BNCCT>
+            <T_BHTT>8478.75</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>018674/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603130416</NGAY_YL>
+            <NGAY_TH_YL>202603130730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>28</STT>
+            <MA_THUOC>40.1021</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Natri clorid 0,9%]]></TEN_THUOC>
+            <DON_VI_TINH>Chai</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[0,9% 500ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE>Chai</DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[2 Chai/lần * 1 lần/ngày * 1 ngày [2 Chai/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Truyền tĩnh mạch 60g/p]]></CACH_DUNG>
+            <SO_DANG_KY>893110118423</SO_DANG_KY>
+            <TT_THAU><![CDATA[1135/QĐ-SYT;G1;N4;2024]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>2.000</SO_LUONG>
+            <DON_GIA>5859.000</DON_GIA>
+            <THANH_TIEN_BV>11718.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>11718.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>585.90</T_BNCCT>
+            <T_BHTT>11132.10</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603160640</NGAY_YL>
+            <NGAY_TH_YL>202603160730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>29</STT>
+            <MA_THUOC>40.175</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Fisulty 2 g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Pha 20ml Natriclorid 0,9% tiêm TM sáng chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110656124</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N4;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>88000.000</DON_GIA>
+            <THANH_TIEN_BV>88000.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>88000.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>4400.00</T_BNCCT>
+            <T_BHTT>83600.00</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603160640</NGAY_YL>
+            <NGAY_TH_YL>202603161330</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>30</STT>
+            <MA_THUOC>40.175</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Fisulty 2 g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Pha 20ml Natriclorid 0,9% tiêm TM sáng chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110656124</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N4;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>88000.000</DON_GIA>
+            <THANH_TIEN_BV>88000.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>88000.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>4400.00</T_BNCCT>
+            <T_BHTT>83600.00</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603160640</NGAY_YL>
+            <NGAY_TH_YL>202603160730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>31</STT>
+            <MA_THUOC>40.1015</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Glucose 5%]]></TEN_THUOC>
+            <DON_VI_TINH>Chai</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[5%, 500ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Dung dịch tiêm truyền]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Chai/lần * 1 lần/ngày * 1 ngày [1 Chai/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[truyền tĩnh mạch 60 g/p]]></CACH_DUNG>
+            <SO_DANG_KY>893110238000</SO_DANG_KY>
+            <TT_THAU>KQ2500073233_2505061032;G1;N4;2025</TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>7323.000</DON_GIA>
+            <THANH_TIEN_BV>7323.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>7323.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>366.15</T_BNCCT>
+            <T_BHTT>6956.85</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603160640</NGAY_YL>
+            <NGAY_TH_YL>202603160730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>32</STT>
+            <MA_THUOC>40.1012</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Nutriflex Peri]]></TEN_THUOC>
+            <DON_VI_TINH>Túi</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[40g + 80g, Chất điện giải; 1000ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Dung dịch tiêm truyền tĩnh mạch]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Túi/lần * 1 lần/ngày * 1 ngày [1 Túi/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[truyền tĩnh mạch 40 g/p]]></CACH_DUNG>
+            <SO_DANG_KY>VN-18157-14</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N1;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>404618.000</DON_GIA>
+            <THANH_TIEN_BV>404618.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>404618.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>20230.90</T_BNCCT>
+            <T_BHTT>384387.10</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603160640</NGAY_YL>
+            <NGAY_TH_YL>202603160730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>33</STT>
+            <MA_THUOC>40.1021</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Natri clorid 0,9%]]></TEN_THUOC>
+            <DON_VI_TINH>Chai</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[0,9% 500ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE>Chai</DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[2 Chai/lần * 1 lần/ngày * 1 ngày [2 Chai/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Truyền tĩnh mạch 60g/p]]></CACH_DUNG>
+            <SO_DANG_KY>893110118423</SO_DANG_KY>
+            <TT_THAU><![CDATA[1135/QĐ-SYT;G1;N4;2024]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>2.000</SO_LUONG>
+            <DON_GIA>5859.000</DON_GIA>
+            <THANH_TIEN_BV>11718.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>11718.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>585.90</T_BNCCT>
+            <T_BHTT>11132.10</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603170644</NGAY_YL>
+            <NGAY_TH_YL>202603170730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>34</STT>
+            <MA_THUOC>40.175</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Fisulty 2 g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Pha 20ml Natriclorid 0,9% tiêm TM sáng chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110656124</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N4;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>88000.000</DON_GIA>
+            <THANH_TIEN_BV>88000.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>88000.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>4400.00</T_BNCCT>
+            <T_BHTT>83600.00</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603170644</NGAY_YL>
+            <NGAY_TH_YL>202603171330</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>35</STT>
+            <MA_THUOC>40.175</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Fisulty 2 g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Pha 20ml Natriclorid 0,9% tiêm TM sáng chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110656124</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N4;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>88000.000</DON_GIA>
+            <THANH_TIEN_BV>88000.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>88000.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>4400.00</T_BNCCT>
+            <T_BHTT>83600.00</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603170644</NGAY_YL>
+            <NGAY_TH_YL>202603170730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>36</STT>
+            <MA_THUOC>40.1015</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Glucose 5%]]></TEN_THUOC>
+            <DON_VI_TINH>Chai</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[5%, 500ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Dung dịch tiêm truyền]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Chai/lần * 1 lần/ngày * 1 ngày [1 Chai/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[truyền tĩnh mạch 60 g/p]]></CACH_DUNG>
+            <SO_DANG_KY>893110238000</SO_DANG_KY>
+            <TT_THAU>KQ2500073233_2505061032;G1;N4;2025</TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>7323.000</DON_GIA>
+            <THANH_TIEN_BV>7323.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>7323.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>366.15</T_BNCCT>
+            <T_BHTT>6956.85</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603170644</NGAY_YL>
+            <NGAY_TH_YL>202603170730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>37</STT>
+            <MA_THUOC>40.1012</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Nutriflex Peri]]></TEN_THUOC>
+            <DON_VI_TINH>Túi</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[40g + 80g, Chất điện giải; 1000ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Dung dịch tiêm truyền tĩnh mạch]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Túi/lần * 1 lần/ngày * 1 ngày [1 Túi/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[truyền tĩnh mạch 40 g/p]]></CACH_DUNG>
+            <SO_DANG_KY>VN-18157-14</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N1;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>404618.000</DON_GIA>
+            <THANH_TIEN_BV>404618.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>404618.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>20230.90</T_BNCCT>
+            <T_BHTT>384387.10</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603170644</NGAY_YL>
+            <NGAY_TH_YL>202603170730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>38</STT>
+            <MA_THUOC>40.1021</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Natri clorid 0,9%]]></TEN_THUOC>
+            <DON_VI_TINH>Chai</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[0,9% 500ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE>Chai</DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[2 Chai/lần * 1 lần/ngày * 1 ngày [2 Chai/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Truyền tĩnh mạch 60g/p]]></CACH_DUNG>
+            <SO_DANG_KY>893110118423</SO_DANG_KY>
+            <TT_THAU><![CDATA[1135/QĐ-SYT;G1;N4;2024]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>2.000</SO_LUONG>
+            <DON_GIA>5859.000</DON_GIA>
+            <THANH_TIEN_BV>11718.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>11718.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>585.90</T_BNCCT>
+            <T_BHTT>11132.10</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603180645</NGAY_YL>
+            <NGAY_TH_YL>202603180730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>39</STT>
+            <MA_THUOC>40.175</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Fisulty 2 g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Pha 20ml Natriclorid 0,9% tiêm TM sáng chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110656124</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N4;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>88000.000</DON_GIA>
+            <THANH_TIEN_BV>88000.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>88000.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>4400.00</T_BNCCT>
+            <T_BHTT>83600.00</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603180645</NGAY_YL>
+            <NGAY_TH_YL>202603181330</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>40</STT>
+            <MA_THUOC>40.175</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Fisulty 2 g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Pha 20ml Natriclorid 0,9% tiêm TM sáng chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110656124</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N4;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>88000.000</DON_GIA>
+            <THANH_TIEN_BV>88000.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>88000.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>4400.00</T_BNCCT>
+            <T_BHTT>83600.00</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603180645</NGAY_YL>
+            <NGAY_TH_YL>202603180730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>41</STT>
+            <MA_THUOC>40.1015</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Glucose 5%]]></TEN_THUOC>
+            <DON_VI_TINH>Chai</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[5%, 500ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Dung dịch tiêm truyền]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Chai/lần * 1 lần/ngày * 1 ngày [1 Chai/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[truyền tĩnh mạch 60 g/p]]></CACH_DUNG>
+            <SO_DANG_KY>893110238000</SO_DANG_KY>
+            <TT_THAU>KQ2500073233_2505061032;G1;N4;2025</TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>7323.000</DON_GIA>
+            <THANH_TIEN_BV>7323.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>7323.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>366.15</T_BNCCT>
+            <T_BHTT>6956.85</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603180645</NGAY_YL>
+            <NGAY_TH_YL>202603180730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>42</STT>
+            <MA_THUOC>40.1012</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Nutriflex Peri]]></TEN_THUOC>
+            <DON_VI_TINH>Túi</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[40g + 80g, Chất điện giải; 1000ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Dung dịch tiêm truyền tĩnh mạch]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Túi/lần * 1 lần/ngày * 1 ngày [1 Túi/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[truyền tĩnh mạch 40 g/p]]></CACH_DUNG>
+            <SO_DANG_KY>VN-18157-14</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N1;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>404618.000</DON_GIA>
+            <THANH_TIEN_BV>404618.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>404618.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>20230.90</T_BNCCT>
+            <T_BHTT>384387.10</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603180645</NGAY_YL>
+            <NGAY_TH_YL>202603180730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>43</STT>
+            <MA_THUOC>40.775</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Solu-Medrol]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[40mg]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột đông khô pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 1 lần/ngày * 1 ngày [1 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[tiêm tĩnh mạch]]></CACH_DUNG>
+            <SO_DANG_KY>VN-20330-17</SO_DANG_KY>
+            <TT_THAU>KQ2500073341_2505130959;G2;N1;2025</TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>41871.000</DON_GIA>
+            <THANH_TIEN_BV>41871.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>41871.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>2093.55</T_BNCCT>
+            <T_BHTT>39777.45</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603171338</NGAY_YL>
+            <NGAY_TH_YL>202603171339</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>44</STT>
+            <MA_THUOC>40.1021</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Natri clorid 0,9%]]></TEN_THUOC>
+            <DON_VI_TINH>Chai</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[0,9% 500ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE>Chai</DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[2 Chai/lần * 1 lần/ngày * 1 ngày [2 Chai/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Truyền tĩnh mạch 60g/p]]></CACH_DUNG>
+            <SO_DANG_KY>893110118423</SO_DANG_KY>
+            <TT_THAU><![CDATA[1135/QĐ-SYT;G1;N4;2024]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>2.000</SO_LUONG>
+            <DON_GIA>5859.000</DON_GIA>
+            <THANH_TIEN_BV>11718.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>11718.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>585.90</T_BNCCT>
+            <T_BHTT>11132.10</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603190647</NGAY_YL>
+            <NGAY_TH_YL>202603190730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>45</STT>
+            <MA_THUOC>40.175</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Fisulty 2 g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Pha 20ml Natriclorid 0,9% tiêm TM sáng chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110656124</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N4;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>88000.000</DON_GIA>
+            <THANH_TIEN_BV>88000.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>88000.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>4400.00</T_BNCCT>
+            <T_BHTT>83600.00</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603190647</NGAY_YL>
+            <NGAY_TH_YL>202603191330</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>46</STT>
+            <MA_THUOC>40.175</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Fisulty 2 g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Pha 20ml Natriclorid 0,9% tiêm TM sáng chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110656124</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N4;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>88000.000</DON_GIA>
+            <THANH_TIEN_BV>88000.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>88000.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>4400.00</T_BNCCT>
+            <T_BHTT>83600.00</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603190647</NGAY_YL>
+            <NGAY_TH_YL>202603190730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>47</STT>
+            <MA_THUOC>40.1015</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Glucose 5%]]></TEN_THUOC>
+            <DON_VI_TINH>Chai</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[5%, 500ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Dung dịch tiêm truyền]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Chai/lần * 1 lần/ngày * 1 ngày [1 Chai/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[truyền tĩnh mạch 60 g/p]]></CACH_DUNG>
+            <SO_DANG_KY>893110238000</SO_DANG_KY>
+            <TT_THAU>KQ2500073233_2505061032;G1;N4;2025</TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>7323.000</DON_GIA>
+            <THANH_TIEN_BV>7323.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>7323.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>366.15</T_BNCCT>
+            <T_BHTT>6956.85</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603190647</NGAY_YL>
+            <NGAY_TH_YL>202603190730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>48</STT>
+            <MA_THUOC>40.1021</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Natri clorid 0,9%]]></TEN_THUOC>
+            <DON_VI_TINH>Chai</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[0,9% 500ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE>Chai</DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[2 Chai/lần * 1 lần/ngày * 1 ngày [2 Chai/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Truyền tĩnh mạch 60g/p]]></CACH_DUNG>
+            <SO_DANG_KY>893110118423</SO_DANG_KY>
+            <TT_THAU><![CDATA[1135/QĐ-SYT;G1;N4;2024]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>2.000</SO_LUONG>
+            <DON_GIA>5859.000</DON_GIA>
+            <THANH_TIEN_BV>11718.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>11718.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>585.90</T_BNCCT>
+            <T_BHTT>11132.10</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603200649</NGAY_YL>
+            <NGAY_TH_YL>202603200730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>49</STT>
+            <MA_THUOC>40.175</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Fisulty 2 g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Pha 20ml Natriclorid 0,9% tiêm TM sáng chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110656124</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N4;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>88000.000</DON_GIA>
+            <THANH_TIEN_BV>88000.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>88000.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>4400.00</T_BNCCT>
+            <T_BHTT>83600.00</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603200649</NGAY_YL>
+            <NGAY_TH_YL>202603201330</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>50</STT>
+            <MA_THUOC>40.175</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Fisulty 2 g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Pha 20ml Natriclorid 0,9% tiêm TM sáng chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110656124</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N4;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>88000.000</DON_GIA>
+            <THANH_TIEN_BV>88000.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>88000.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>4400.00</T_BNCCT>
+            <T_BHTT>83600.00</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603200649</NGAY_YL>
+            <NGAY_TH_YL>202603200730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>51</STT>
+            <MA_THUOC>40.1015</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Glucose 5%]]></TEN_THUOC>
+            <DON_VI_TINH>Chai</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[5%, 500ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Dung dịch tiêm truyền]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Chai/lần * 1 lần/ngày * 1 ngày [1 Chai/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[truyền tĩnh mạch 60 g/p]]></CACH_DUNG>
+            <SO_DANG_KY>893110238000</SO_DANG_KY>
+            <TT_THAU>KQ2500073233_2505061032;G1;N4;2025</TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>7323.000</DON_GIA>
+            <THANH_TIEN_BV>7323.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>7323.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>366.15</T_BNCCT>
+            <T_BHTT>6956.85</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603200649</NGAY_YL>
+            <NGAY_TH_YL>202603200730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>52</STT>
+            <MA_THUOC>40.30</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Diclofenac]]></TEN_THUOC>
+            <DON_VI_TINH>Ống</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[75mg/3ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Ống]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Ống/lần * 1 lần/ngày * 1 ngày [1 Ống/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[tiêm bắp]]></CACH_DUNG>
+            <SO_DANG_KY>VD-29946-18</SO_DANG_KY>
+            <TT_THAU><![CDATA[114/QĐ-SYT;G1;N4;2023]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>760.000</DON_GIA>
+            <THANH_TIEN_BV>760.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>760.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>38.00</T_BNCCT>
+            <T_BHTT>722.00</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603190837</NGAY_YL>
+            <NGAY_TH_YL>202603190838</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>53</STT>
+            <MA_THUOC>40.16</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Osaphine]]></TEN_THUOC>
+            <DON_VI_TINH>Ống</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[10mg/ml; 1ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Dung dịch tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[Một Ống/lần * 1 lần/ngày * 1 ngày [Một Ống/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Tiêm bắp 1/3 ống / lần x 3 lần/ ngày cách 3h]]></CACH_DUNG>
+            <SO_DANG_KY>893111169724</SO_DANG_KY>
+            <TT_THAU>KQ2500073233_2505061032;G1;N4;2025</TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>7000.000</DON_GIA>
+            <THANH_TIEN_BV>7000.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>7000.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>350.00</T_BNCCT>
+            <T_BHTT>6650.00</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603192046</NGAY_YL>
+            <NGAY_TH_YL>202603192047</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>54</STT>
+            <MA_THUOC>40.1021</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Natri clorid 0,9%]]></TEN_THUOC>
+            <DON_VI_TINH>Chai</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[0,9% 500ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE>Chai</DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[2 Chai/lần * 1 lần/ngày * 1 ngày [2 Chai/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Truyền tĩnh mạch 60g/p]]></CACH_DUNG>
+            <SO_DANG_KY>893110118423</SO_DANG_KY>
+            <TT_THAU><![CDATA[1135/QĐ-SYT;G1;N4;2024]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>2.000</SO_LUONG>
+            <DON_GIA>5859.000</DON_GIA>
+            <THANH_TIEN_BV>11718.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>11718.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>585.90</T_BNCCT>
+            <T_BHTT>11132.10</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603192250</NGAY_YL>
+            <NGAY_TH_YL>202603210730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>55</STT>
+            <MA_THUOC>40.175</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Fisulty 2 g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Pha 20ml Natriclorid 0,9% tiêm TM sáng chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110656124</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N4;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>88000.000</DON_GIA>
+            <THANH_TIEN_BV>88000.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>88000.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>4400.00</T_BNCCT>
+            <T_BHTT>83600.00</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603192250</NGAY_YL>
+            <NGAY_TH_YL>202603211330</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>56</STT>
+            <MA_THUOC>40.175</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Fisulty 2 g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Pha 20ml Natriclorid 0,9% tiêm TM sáng chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110656124</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N4;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>88000.000</DON_GIA>
+            <THANH_TIEN_BV>88000.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>88000.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>4400.00</T_BNCCT>
+            <T_BHTT>83600.00</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603192250</NGAY_YL>
+            <NGAY_TH_YL>202603210730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>57</STT>
+            <MA_THUOC>40.1015</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Glucose 5%]]></TEN_THUOC>
+            <DON_VI_TINH>Chai</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[5%, 500ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Dung dịch tiêm truyền]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Chai/lần * 1 lần/ngày * 1 ngày [1 Chai/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[truyền tĩnh mạch 60 g/p]]></CACH_DUNG>
+            <SO_DANG_KY>893110238000</SO_DANG_KY>
+            <TT_THAU>KQ2500073233_2505061032;G1;N4;2025</TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>7323.000</DON_GIA>
+            <THANH_TIEN_BV>7323.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>7323.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>366.15</T_BNCCT>
+            <T_BHTT>6956.85</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603192250</NGAY_YL>
+            <NGAY_TH_YL>202603210730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>58</STT>
+            <MA_THUOC>40.1012</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Nutriflex Peri]]></TEN_THUOC>
+            <DON_VI_TINH>Túi</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[40g + 80g, Chất điện giải; 1000ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Dung dịch tiêm truyền tĩnh mạch]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Túi/lần * 1 lần/ngày * 1 ngày [1 Túi/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[truyền tĩnh mạch 40 g/p]]></CACH_DUNG>
+            <SO_DANG_KY>VN-18157-14</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N1;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>404618.000</DON_GIA>
+            <THANH_TIEN_BV>404618.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>404618.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>20230.90</T_BNCCT>
+            <T_BHTT>384387.10</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603192250</NGAY_YL>
+            <NGAY_TH_YL>202603210730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>59</STT>
+            <MA_THUOC>40.1021</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Natri clorid 0,9%]]></TEN_THUOC>
+            <DON_VI_TINH>Chai</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[0,9% 500ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE>Chai</DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[2 Chai/lần * 1 lần/ngày * 1 ngày [2 Chai/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Truyền tĩnh mạch 60g/p]]></CACH_DUNG>
+            <SO_DANG_KY>893110118423</SO_DANG_KY>
+            <TT_THAU><![CDATA[1135/QĐ-SYT;G1;N4;2024]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>2.000</SO_LUONG>
+            <DON_GIA>5859.000</DON_GIA>
+            <THANH_TIEN_BV>11718.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>11718.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>585.90</T_BNCCT>
+            <T_BHTT>11132.10</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603192250</NGAY_YL>
+            <NGAY_TH_YL>202603220730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>60</STT>
+            <MA_THUOC>40.175</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Fisulty 2 g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Pha 20ml Natriclorid 0,9% tiêm TM sáng chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110656124</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N4;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>88000.000</DON_GIA>
+            <THANH_TIEN_BV>88000.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>88000.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>4400.00</T_BNCCT>
+            <T_BHTT>83600.00</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603192250</NGAY_YL>
+            <NGAY_TH_YL>202603221330</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>61</STT>
+            <MA_THUOC>40.175</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Fisulty 2 g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Pha 20ml Natriclorid 0,9% tiêm TM sáng chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110656124</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N4;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>88000.000</DON_GIA>
+            <THANH_TIEN_BV>88000.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>88000.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>4400.00</T_BNCCT>
+            <T_BHTT>83600.00</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603192250</NGAY_YL>
+            <NGAY_TH_YL>202603220730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>62</STT>
+            <MA_THUOC>40.1015</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Glucose 5%]]></TEN_THUOC>
+            <DON_VI_TINH>Chai</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[5%, 500ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Dung dịch tiêm truyền]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Chai/lần * 1 lần/ngày * 1 ngày [1 Chai/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[truyền tĩnh mạch 60 g/p]]></CACH_DUNG>
+            <SO_DANG_KY>893110238000</SO_DANG_KY>
+            <TT_THAU>KQ2500073233_2505061032;G1;N4;2025</TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>7323.000</DON_GIA>
+            <THANH_TIEN_BV>7323.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>7323.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>366.15</T_BNCCT>
+            <T_BHTT>6956.85</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603192250</NGAY_YL>
+            <NGAY_TH_YL>202603220730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>63</STT>
+            <MA_THUOC>40.1012</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Nutriflex Peri]]></TEN_THUOC>
+            <DON_VI_TINH>Túi</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[40g + 80g, Chất điện giải; 1000ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Dung dịch tiêm truyền tĩnh mạch]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Túi/lần * 1 lần/ngày * 1 ngày [1 Túi/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[truyền tĩnh mạch 40 g/p]]></CACH_DUNG>
+            <SO_DANG_KY>VN-18157-14</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N1;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>404618.000</DON_GIA>
+            <THANH_TIEN_BV>404618.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>404618.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>20230.90</T_BNCCT>
+            <T_BHTT>384387.10</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603192250</NGAY_YL>
+            <NGAY_TH_YL>202603220730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>64</STT>
+            <MA_THUOC>40.1021</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Natri clorid 0,9%]]></TEN_THUOC>
+            <DON_VI_TINH>Chai</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[0,9% 500ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE>Chai</DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[2 Chai/lần * 1 lần/ngày * 1 ngày [2 Chai/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Truyền tĩnh mạch 60g/p]]></CACH_DUNG>
+            <SO_DANG_KY>893110118423</SO_DANG_KY>
+            <TT_THAU><![CDATA[1135/QĐ-SYT;G1;N4;2024]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>2.000</SO_LUONG>
+            <DON_GIA>5859.000</DON_GIA>
+            <THANH_TIEN_BV>11718.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>11718.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>585.90</T_BNCCT>
+            <T_BHTT>11132.10</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603230650</NGAY_YL>
+            <NGAY_TH_YL>202603230730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>65</STT>
+            <MA_THUOC>40.175</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Fisulty 2 g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Pha 20ml Natriclorid 0,9% tiêm TM sáng chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110656124</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N4;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>88000.000</DON_GIA>
+            <THANH_TIEN_BV>88000.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>88000.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>4400.00</T_BNCCT>
+            <T_BHTT>83600.00</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603230650</NGAY_YL>
+            <NGAY_TH_YL>202603231330</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>66</STT>
+            <MA_THUOC>40.175</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Fisulty 2 g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Pha 20ml Natriclorid 0,9% tiêm TM sáng chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110656124</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N4;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>88000.000</DON_GIA>
+            <THANH_TIEN_BV>88000.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>88000.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>4400.00</T_BNCCT>
+            <T_BHTT>83600.00</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603230650</NGAY_YL>
+            <NGAY_TH_YL>202603230730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>67</STT>
+            <MA_THUOC>40.1015</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Glucose 5%]]></TEN_THUOC>
+            <DON_VI_TINH>Chai</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[5%, 500ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Dung dịch tiêm truyền]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Chai/lần * 1 lần/ngày * 1 ngày [1 Chai/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[truyền tĩnh mạch 60 g/p]]></CACH_DUNG>
+            <SO_DANG_KY>893110238000</SO_DANG_KY>
+            <TT_THAU>KQ2500073233_2505061032;G1;N4;2025</TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>7323.000</DON_GIA>
+            <THANH_TIEN_BV>7323.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>7323.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>366.15</T_BNCCT>
+            <T_BHTT>6956.85</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603230650</NGAY_YL>
+            <NGAY_TH_YL>202603230730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>68</STT>
+            <MA_THUOC>40.1012</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Nutriflex Peri]]></TEN_THUOC>
+            <DON_VI_TINH>Túi</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[40g + 80g, Chất điện giải; 1000ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Dung dịch tiêm truyền tĩnh mạch]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Túi/lần * 1 lần/ngày * 1 ngày [1 Túi/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[truyền tĩnh mạch 40 g/p]]></CACH_DUNG>
+            <SO_DANG_KY>VN-18157-14</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N1;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>404618.000</DON_GIA>
+            <THANH_TIEN_BV>404618.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>404618.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>20230.90</T_BNCCT>
+            <T_BHTT>384387.10</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603230650</NGAY_YL>
+            <NGAY_TH_YL>202603230730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>69</STT>
+            <MA_THUOC>40.666</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Famotidin 40mg/4ml]]></TEN_THUOC>
+            <DON_VI_TINH>Ống</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[40mg/4ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Ống]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Ống/lần * 1 lần/ngày * 1 ngày [1 Ống/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[tiêm bắp]]></CACH_DUNG>
+            <SO_DANG_KY>893110059423</SO_DANG_KY>
+            <TT_THAU><![CDATA[1432/QĐ-BVUB;G1;N4;2024]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>63500.000</DON_GIA>
+            <THANH_TIEN_BV>63500.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>63500.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>3175.00</T_BNCCT>
+            <T_BHTT>60325.00</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603201641</NGAY_YL>
+            <NGAY_TH_YL>202603201642</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>70</STT>
+            <MA_THUOC>40.775</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Pdsolone-40mg]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[40mg]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Lọ]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 1 lần/ngày * 1 ngày [1 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Tiêm TM]]></CACH_DUNG>
+            <SO_DANG_KY>VN-21317-18</SO_DANG_KY>
+            <TT_THAU><![CDATA[1135/QĐ-SYT;G1;N2;2024]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>27680.000</DON_GIA>
+            <THANH_TIEN_BV>27680.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>27680.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>1384.00</T_BNCCT>
+            <T_BHTT>26296.00</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>14456/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603212342</NGAY_YL>
+            <NGAY_TH_YL>202603212346</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>71</STT>
+            <MA_THUOC>40.666</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Famotidin 40mg/4ml]]></TEN_THUOC>
+            <DON_VI_TINH>Ống</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[40mg/4ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Ống]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Ống/lần * 1 lần/ngày * 1 ngày [1 Ống/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Tiêm tĩnh mạch chậm]]></CACH_DUNG>
+            <SO_DANG_KY>893110059423</SO_DANG_KY>
+            <TT_THAU><![CDATA[1432/QĐ-BVUB;G1;N4;2024]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>63500.000</DON_GIA>
+            <THANH_TIEN_BV>63500.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>63500.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>3175.00</T_BNCCT>
+            <T_BHTT>60325.00</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>001991/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603222219</NGAY_YL>
+            <NGAY_TH_YL>202603222220</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>72</STT>
+            <MA_THUOC>40.1021</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Natri clorid 0,9%]]></TEN_THUOC>
+            <DON_VI_TINH>Chai</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[0,9% 500ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE>Chai</DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[2 Chai/lần * 1 lần/ngày * 1 ngày [2 Chai/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Truyền tĩnh mạch 60g/p]]></CACH_DUNG>
+            <SO_DANG_KY>893110118423</SO_DANG_KY>
+            <TT_THAU><![CDATA[1135/QĐ-SYT;G1;N4;2024]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>2.000</SO_LUONG>
+            <DON_GIA>5859.000</DON_GIA>
+            <THANH_TIEN_BV>11718.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>11718.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>585.90</T_BNCCT>
+            <T_BHTT>11132.10</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603240633</NGAY_YL>
+            <NGAY_TH_YL>202603240805</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>73</STT>
+            <MA_THUOC>40.1015</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Glucose 5%]]></TEN_THUOC>
+            <DON_VI_TINH>Chai</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[5%, 500ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Dung dịch tiêm truyền]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Chai/lần * 1 lần/ngày * 1 ngày [1 Chai/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[truyền tĩnh mạch 60 g/p]]></CACH_DUNG>
+            <SO_DANG_KY>893110238000</SO_DANG_KY>
+            <TT_THAU>KQ2500073233_2505061032;G1;N4;2025</TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>7323.000</DON_GIA>
+            <THANH_TIEN_BV>7323.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>7323.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>366.15</T_BNCCT>
+            <T_BHTT>6956.85</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603240633</NGAY_YL>
+            <NGAY_TH_YL>202603240805</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>74</STT>
+            <MA_THUOC>40.165</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Vicimadol 2g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Pha mỗi lọ với 20 ml NaCl 0,9%. Test(-) tiêm tĩnh mạch sáng- chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110688224</SO_DANG_KY>
+            <TT_THAU>KQ2500073233_2505061032;G1;N4;2025</TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>73290.000</DON_GIA>
+            <THANH_TIEN_BV>73290.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>73290.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>3664.50</T_BNCCT>
+            <T_BHTT>69625.50</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603240633</NGAY_YL>
+            <NGAY_TH_YL>202603241405</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>75</STT>
+            <MA_THUOC>40.165</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Vicimadol 2g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Pha mỗi lọ với 20 ml NaCl 0,9%. Test(-) tiêm tĩnh mạch sáng- chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110688224</SO_DANG_KY>
+            <TT_THAU>KQ2500073233_2505061032;G1;N4;2025</TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>73290.000</DON_GIA>
+            <THANH_TIEN_BV>73290.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>73290.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>3664.50</T_BNCCT>
+            <T_BHTT>69625.50</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603240633</NGAY_YL>
+            <NGAY_TH_YL>202603240805</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>76</STT>
+            <MA_THUOC>40.1021</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Natri clorid 0,9%]]></TEN_THUOC>
+            <DON_VI_TINH>Chai</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[0,9% 500ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE>Chai</DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[2 Chai/lần * 1 lần/ngày * 1 ngày [2 Chai/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Truyền tĩnh mạch 60g/p]]></CACH_DUNG>
+            <SO_DANG_KY>893110118423</SO_DANG_KY>
+            <TT_THAU><![CDATA[1135/QĐ-SYT;G1;N4;2024]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>2.000</SO_LUONG>
+            <DON_GIA>5859.000</DON_GIA>
+            <THANH_TIEN_BV>11718.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>11718.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>585.90</T_BNCCT>
+            <T_BHTT>11132.10</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603250634</NGAY_YL>
+            <NGAY_TH_YL>202603250730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>77</STT>
+            <MA_THUOC>40.1015</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Glucose 5%]]></TEN_THUOC>
+            <DON_VI_TINH>Chai</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[5%, 500ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Dung dịch tiêm truyền]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Chai/lần * 1 lần/ngày * 1 ngày [1 Chai/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[truyền tĩnh mạch 60 g/p]]></CACH_DUNG>
+            <SO_DANG_KY>893110238000</SO_DANG_KY>
+            <TT_THAU>KQ2500073233_2505061032;G1;N4;2025</TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>7323.000</DON_GIA>
+            <THANH_TIEN_BV>7323.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>7323.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>366.15</T_BNCCT>
+            <T_BHTT>6956.85</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603250634</NGAY_YL>
+            <NGAY_TH_YL>202603250730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>78</STT>
+            <MA_THUOC>40.165</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Vicimadol 2g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Pha mỗi lọ với 20 ml NaCl 0,9%. tiêm tĩnh mạch sáng- chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110688224</SO_DANG_KY>
+            <TT_THAU>KQ2500073233_2505061032;G1;N4;2025</TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>73290.000</DON_GIA>
+            <THANH_TIEN_BV>73290.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>73290.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>3664.50</T_BNCCT>
+            <T_BHTT>69625.50</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603250634</NGAY_YL>
+            <NGAY_TH_YL>202603251330</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>79</STT>
+            <MA_THUOC>40.165</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Vicimadol 2g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[Pha mỗi lọ với 20 ml NaCl 0,9%. tiêm tĩnh mạch sáng- chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110688224</SO_DANG_KY>
+            <TT_THAU>KQ2500073233_2505061032;G1;N4;2025</TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>73290.000</DON_GIA>
+            <THANH_TIEN_BV>73290.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>73290.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>3664.50</T_BNCCT>
+            <T_BHTT>69625.50</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>13914/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603250634</NGAY_YL>
+            <NGAY_TH_YL>202603250730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>80</STT>
+            <MA_THUOC>40.165</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Vicimadol 2g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[mỗi lọ pha với 20ml NaCl tiêm tĩnh mạch chậm sáng chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110688224</SO_DANG_KY>
+            <TT_THAU>KQ2500073233_2505061032;G1;N4;2025</TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>73290.000</DON_GIA>
+            <THANH_TIEN_BV>73290.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>73290.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>3664.50</T_BNCCT>
+            <T_BHTT>69625.50</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>018674/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603260659</NGAY_YL>
+            <NGAY_TH_YL>202603261330</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>81</STT>
+            <MA_THUOC>40.165</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Vicimadol 2g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[mỗi lọ pha với 20ml NaCl tiêm tĩnh mạch chậm sáng chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110688224</SO_DANG_KY>
+            <TT_THAU>KQ2500073233_2505061032;G1;N4;2025</TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>73290.000</DON_GIA>
+            <THANH_TIEN_BV>73290.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>73290.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>3664.50</T_BNCCT>
+            <T_BHTT>69625.50</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>018674/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603260659</NGAY_YL>
+            <NGAY_TH_YL>202603260730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>82</STT>
+            <MA_THUOC>40.1015</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Glucose 5%]]></TEN_THUOC>
+            <DON_VI_TINH>Chai</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[5%, 500ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Dung dịch tiêm truyền]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[2 Chai/lần * 1 lần/ngày * 1 ngày [2 Chai/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[truyền tĩnh mạch 60g/p]]></CACH_DUNG>
+            <SO_DANG_KY>893110238000</SO_DANG_KY>
+            <TT_THAU>KQ2500073233_2505061032;G1;N4;2025</TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>2.000</SO_LUONG>
+            <DON_GIA>7323.000</DON_GIA>
+            <THANH_TIEN_BV>14646.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>14646.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>732.30</T_BNCCT>
+            <T_BHTT>13913.70</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>018674/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603260659</NGAY_YL>
+            <NGAY_TH_YL>202603260730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>83</STT>
+            <MA_THUOC>40.680</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Biticans]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[20mg]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột đông khô pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 1 lần/ngày * 1 ngày [1 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[tiêm tĩnh mạch]]></CACH_DUNG>
+            <SO_DANG_KY>893110895724</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N4;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>58600.000</DON_GIA>
+            <THANH_TIEN_BV>58600.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>58600.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>2930.00</T_BNCCT>
+            <T_BHTT>55670.00</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>018674/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603260659</NGAY_YL>
+            <NGAY_TH_YL>202603260730</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>84</STT>
+            <MA_THUOC>40.165</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Vicimadol 2g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[mỗi lọ pha với 20ml NaCl tiêm tĩnh mạch chậm sáng chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110688224</SO_DANG_KY>
+            <TT_THAU>KQ2500073233_2505061032;G1;N4;2025</TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>73290.000</DON_GIA>
+            <THANH_TIEN_BV>73290.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>73290.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>3664.50</T_BNCCT>
+            <T_BHTT>69625.50</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>018674/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603270600</NGAY_YL>
+            <NGAY_TH_YL>202603271515</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>85</STT>
+            <MA_THUOC>40.165</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Vicimadol 2g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[mỗi lọ pha với 20ml NaCl tiêm tĩnh mạch chậm sáng chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110688224</SO_DANG_KY>
+            <TT_THAU>KQ2500073233_2505061032;G1;N4;2025</TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>73290.000</DON_GIA>
+            <THANH_TIEN_BV>73290.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>73290.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>3664.50</T_BNCCT>
+            <T_BHTT>69625.50</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>018674/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603270600</NGAY_YL>
+            <NGAY_TH_YL>202603270715</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>86</STT>
+            <MA_THUOC>40.1015</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Glucose 5%]]></TEN_THUOC>
+            <DON_VI_TINH>Chai</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[5%, 500ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Dung dịch tiêm truyền]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[2 Chai/lần * 1 lần/ngày * 1 ngày [2 Chai/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[truyền tĩnh mạch 60g/p]]></CACH_DUNG>
+            <SO_DANG_KY>893110238000</SO_DANG_KY>
+            <TT_THAU>KQ2500073233_2505061032;G1;N4;2025</TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>2.000</SO_LUONG>
+            <DON_GIA>7323.000</DON_GIA>
+            <THANH_TIEN_BV>14646.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>14646.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>732.30</T_BNCCT>
+            <T_BHTT>13913.70</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>018674/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603270600</NGAY_YL>
+            <NGAY_TH_YL>202603270715</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>87</STT>
+            <MA_THUOC>40.680</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Biticans]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[20mg]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột đông khô pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 1 lần/ngày * 1 ngày [1 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[tiêm tĩnh mạch]]></CACH_DUNG>
+            <SO_DANG_KY>893110895724</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N4;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>58600.000</DON_GIA>
+            <THANH_TIEN_BV>58600.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>58600.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>2930.00</T_BNCCT>
+            <T_BHTT>55670.00</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>018674/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603270600</NGAY_YL>
+            <NGAY_TH_YL>202603270715</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>88</STT>
+            <MA_THUOC>40.48</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Paracetamol 10mg/ml]]></TEN_THUOC>
+            <DON_VI_TINH>Túi</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[1g/100ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.05</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Túi]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Túi/lần * 1 lần/ngày * 1 ngày [1 Túi/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[truyền tĩnh mạch 60g/p]]></CACH_DUNG>
+            <SO_DANG_KY>893110055900</SO_DANG_KY>
+            <TT_THAU><![CDATA[1135/QĐ-SYT;G1;N4;2024]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>8925.000</DON_GIA>
+            <THANH_TIEN_BV>8925.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>8925.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>446.25</T_BNCCT>
+            <T_BHTT>8478.75</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>018674/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603251418</NGAY_YL>
+            <NGAY_TH_YL>202603251419</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>89</STT>
+            <MA_THUOC>40.165</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Vicimadol 2g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[mỗi lọ pha với 20ml NaCl tiêm tĩnh mạch chậm sáng chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110688224</SO_DANG_KY>
+            <TT_THAU>KQ2500073233_2505061032;G1;N4;2025</TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>73290.000</DON_GIA>
+            <THANH_TIEN_BV>73290.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>73290.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>3664.50</T_BNCCT>
+            <T_BHTT>69625.50</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>018674/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603271235</NGAY_YL>
+            <NGAY_TH_YL>202603281457</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>90</STT>
+            <MA_THUOC>40.165</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Vicimadol 2g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[mỗi lọ pha với 20ml NaCl tiêm tĩnh mạch chậm sáng chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110688224</SO_DANG_KY>
+            <TT_THAU>KQ2500073233_2505061032;G1;N4;2025</TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>73290.000</DON_GIA>
+            <THANH_TIEN_BV>73290.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>73290.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>3664.50</T_BNCCT>
+            <T_BHTT>69625.50</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>018674/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603271235</NGAY_YL>
+            <NGAY_TH_YL>202603280757</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>91</STT>
+            <MA_THUOC>40.1015</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Glucose 5%]]></TEN_THUOC>
+            <DON_VI_TINH>Chai</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[5%, 500ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Dung dịch tiêm truyền]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[2 Chai/lần * 1 lần/ngày * 1 ngày [2 Chai/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[truyền tĩnh mạch 60g/p]]></CACH_DUNG>
+            <SO_DANG_KY>893110238000</SO_DANG_KY>
+            <TT_THAU>KQ2500073233_2505061032;G1;N4;2025</TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>2.000</SO_LUONG>
+            <DON_GIA>7323.000</DON_GIA>
+            <THANH_TIEN_BV>14646.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>14646.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>732.30</T_BNCCT>
+            <T_BHTT>13913.70</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>018674/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603271235</NGAY_YL>
+            <NGAY_TH_YL>202603280757</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>92</STT>
+            <MA_THUOC>40.680</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Biticans]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[20mg]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột đông khô pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 1 lần/ngày * 1 ngày [1 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[tiêm tĩnh mạch]]></CACH_DUNG>
+            <SO_DANG_KY>893110895724</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N4;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>58600.000</DON_GIA>
+            <THANH_TIEN_BV>58600.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>58600.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>2930.00</T_BNCCT>
+            <T_BHTT>55670.00</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>018674/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603271235</NGAY_YL>
+            <NGAY_TH_YL>202603280757</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>93</STT>
+            <MA_THUOC>40.165</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Vicimadol 2g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[mỗi lọ pha với 20ml NaCl tiêm tĩnh mạch chậm sáng chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110688224</SO_DANG_KY>
+            <TT_THAU>KQ2500073233_2505061032;G1;N4;2025</TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>73290.000</DON_GIA>
+            <THANH_TIEN_BV>73290.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>73290.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>3664.50</T_BNCCT>
+            <T_BHTT>69625.50</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>018674/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603271235</NGAY_YL>
+            <NGAY_TH_YL>202603291457</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>94</STT>
+            <MA_THUOC>40.165</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Vicimadol 2g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[mỗi lọ pha với 20ml NaCl tiêm tĩnh mạch chậm sáng chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110688224</SO_DANG_KY>
+            <TT_THAU>KQ2500073233_2505061032;G1;N4;2025</TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>73290.000</DON_GIA>
+            <THANH_TIEN_BV>73290.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>73290.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>3664.50</T_BNCCT>
+            <T_BHTT>69625.50</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>018674/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603271235</NGAY_YL>
+            <NGAY_TH_YL>202603290757</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>95</STT>
+            <MA_THUOC>40.1015</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Glucose 5%]]></TEN_THUOC>
+            <DON_VI_TINH>Chai</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[5%, 500ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Dung dịch tiêm truyền]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[2 Chai/lần * 1 lần/ngày * 1 ngày [2 Chai/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[truyền tĩnh mạch 60g/p]]></CACH_DUNG>
+            <SO_DANG_KY>893110238000</SO_DANG_KY>
+            <TT_THAU>KQ2500073233_2505061032;G1;N4;2025</TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>2.000</SO_LUONG>
+            <DON_GIA>7323.000</DON_GIA>
+            <THANH_TIEN_BV>14646.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>14646.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>732.30</T_BNCCT>
+            <T_BHTT>13913.70</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>018674/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603271235</NGAY_YL>
+            <NGAY_TH_YL>202603290757</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>96</STT>
+            <MA_THUOC>40.680</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Biticans]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[20mg]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột đông khô pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 1 lần/ngày * 1 ngày [1 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[tiêm tĩnh mạch]]></CACH_DUNG>
+            <SO_DANG_KY>893110895724</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N4;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>58600.000</DON_GIA>
+            <THANH_TIEN_BV>58600.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>58600.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>2930.00</T_BNCCT>
+            <T_BHTT>55670.00</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>018674/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603271235</NGAY_YL>
+            <NGAY_TH_YL>202603290757</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>97</STT>
+            <MA_THUOC>40.165</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Vicimadol 2g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[mỗi lọ pha với 20ml NaCl tiêm tĩnh mạch chậm sáng chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110688224</SO_DANG_KY>
+            <TT_THAU>KQ2500073233_2505061032;G1;N4;2025</TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>73290.000</DON_GIA>
+            <THANH_TIEN_BV>73290.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>73290.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>3664.50</T_BNCCT>
+            <T_BHTT>69625.50</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>018674/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603300635</NGAY_YL>
+            <NGAY_TH_YL>202603301445</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>98</STT>
+            <MA_THUOC>40.165</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Vicimadol 2g]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[2g]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 2 lần/ngày * 1 ngày [2 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[mỗi lọ pha với 20ml NaCl tiêm tĩnh mạch chậm sáng chiều]]></CACH_DUNG>
+            <SO_DANG_KY>893110688224</SO_DANG_KY>
+            <TT_THAU>KQ2500073233_2505061032;G1;N4;2025</TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>73290.000</DON_GIA>
+            <THANH_TIEN_BV>73290.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>73290.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>3664.50</T_BNCCT>
+            <T_BHTT>69625.50</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>018674/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603300635</NGAY_YL>
+            <NGAY_TH_YL>202603300745</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>99</STT>
+            <MA_THUOC>40.1015</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Glucose 5%]]></TEN_THUOC>
+            <DON_VI_TINH>Chai</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[5%, 500ml]]></HAM_LUONG>
+            <DUONG_DUNG>2.15</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Dung dịch tiêm truyền]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[2 Chai/lần * 1 lần/ngày * 1 ngày [2 Chai/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[truyền tĩnh mạch 60g/p]]></CACH_DUNG>
+            <SO_DANG_KY>893110238000</SO_DANG_KY>
+            <TT_THAU>KQ2500073233_2505061032;G1;N4;2025</TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>2.000</SO_LUONG>
+            <DON_GIA>7323.000</DON_GIA>
+            <THANH_TIEN_BV>14646.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>14646.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>732.30</T_BNCCT>
+            <T_BHTT>13913.70</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>018674/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603300635</NGAY_YL>
+            <NGAY_TH_YL>202603300745</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+        <CHI_TIET_THUOC>
+            <MA_LK>112645</MA_LK>
+            <STT>100</STT>
+            <MA_THUOC>40.680</MA_THUOC>
+            <MA_PP_CHEBIEN></MA_PP_CHEBIEN>
+            <MA_CSKCB_THUOC></MA_CSKCB_THUOC>
+            <MA_NHOM>4</MA_NHOM>
+            <TEN_THUOC><![CDATA[Biticans]]></TEN_THUOC>
+            <DON_VI_TINH>Lọ</DON_VI_TINH>
+            <HAM_LUONG><![CDATA[20mg]]></HAM_LUONG>
+            <DUONG_DUNG>2.10</DUONG_DUNG>
+            <DANG_BAO_CHE><![CDATA[Bột đông khô pha tiêm]]></DANG_BAO_CHE>
+            <LIEU_DUNG><![CDATA[1 Lọ/lần * 1 lần/ngày * 1 ngày [1 Lọ/ngày]]]></LIEU_DUNG>
+            <CACH_DUNG><![CDATA[tiêm tĩnh mạch]]></CACH_DUNG>
+            <SO_DANG_KY>893110895724</SO_DANG_KY>
+            <TT_THAU><![CDATA[193/QĐ-BVUB;G1;N4;2026]]></TT_THAU>
+            <PHAM_VI>1</PHAM_VI>
+            <TYLE_TT_BH>100</TYLE_TT_BH>
+            <SO_LUONG>1.000</SO_LUONG>
+            <DON_GIA>58600.000</DON_GIA>
+            <THANH_TIEN_BV>58600.00</THANH_TIEN_BV>
+            <THANH_TIEN_BH>58600.00</THANH_TIEN_BH>
+            <T_NGUONKHAC_NSNN>0.00</T_NGUONKHAC_NSNN>
+            <T_NGUONKHAC_VTNN>0.00</T_NGUONKHAC_VTNN>
+            <T_NGUONKHAC_VTTN>0.00</T_NGUONKHAC_VTTN>
+            <T_NGUONKHAC_CL>0.00</T_NGUONKHAC_CL>
+            <T_NGUONKHAC>0.00</T_NGUONKHAC>
+            <MUC_HUONG>95</MUC_HUONG>
+            <T_BNTT>0.00</T_BNTT>
+            <T_BNCCT>2930.00</T_BNCCT>
+            <T_BHTT>55670.00</T_BHTT>
+            <MA_KHOA>K19</MA_KHOA>
+            <MA_BAC_SI>018674/TH-CCHN</MA_BAC_SI>
+            <MA_DICH_VU></MA_DICH_VU>
+            <NGAY_YL>202603300635</NGAY_YL>
+            <NGAY_TH_YL>202603300745</NGAY_TH_YL>
+            <MA_PTTT>1</MA_PTTT>
+            <NGUON_CTRA>4</NGUON_CTRA>
+            <VET_THUONG_TP></VET_THUONG_TP>
+            <DU_PHONG></DU_PHONG>
+        </CHI_TIET_THUOC>
+    </DSACH_CHI_TIET_THUOC>
+</CHITIEU_CHITIET_THUOC>

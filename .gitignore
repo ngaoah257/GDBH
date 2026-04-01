@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pyo
+*.pyd
+*.tmp
+*.log
+
+toolGDBH/.venv/
+toolGDBH/.pytest_cache/
+toolGDBH/tool_giamdinh.egg-info/
+toolGDBH/**/__pycache__/
